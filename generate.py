@@ -75,7 +75,8 @@ def proc_image(subdir, author, title, email, license, prefix):
     desktop_content = DESKTOP_IN.replace("%TITLE%", title) \
             .replace("%AUTHOR%", author) \
             .replace("%EMAIL%", email) \
-            .replace("%LICENSE%", license)
+            .replace("%LICENSE%", license) \
+            .replace("%FNAME%", fname)
 
     # Install directories
     mkdir(prefix + kde_path + "/contents/images")
