@@ -56,20 +56,20 @@ def normalize_fname(title):
     return title.replace("\'", "").replace(" ", "_").replace("-", "_")
 
 
-def proc_image(subdir, author, title, email, license, prefix):
+def proc_image(subdir, author, title, email, license, dest, prefix):
     print("Author: %s, Image: %s" % (author, title))
     fname = normalize_fname(title)
 
     # Path to solid output xml, not symlink
-    xml_path = XML_PATH % fname
-    img_path = IMG_PATH % fname
+    xml_path = (prefix + XML_PATH) % fname
+    img_path = (prefix + IMG_PATH) % fname
 
     # Path to symlinks
-    gnome_xml_path = GNOME_XML_PATH % fname
-    mate_xml_path = MATE_XML_PATH % fname
-    xfce_img_path = XFCE_IMG_PATH % fname
-    kde_path = KDE_PATH % fname
-    kde_img_path = KDE_IMG_PATH % (fname, fname)
+    gnome_xml_path = (prefix + GNOME_XML_PATH) % fname
+    mate_xml_path = (prefix + MATE_XML_PATH) % fname
+    xfce_img_path = (prefix + XFCE_IMG_PATH) % fname
+    kde_path = (prefix + KDE_PATH) % fname
+    kde_img_path = (prefix + KDE_IMG_PATH) % (fname, fname)
 
     # Meta data content
     xml_content = XML_IN.replace("%TITLE%", title).replace("%FILENAME%", img_path)
@@ -80,42 +80,44 @@ def proc_image(subdir, author, title, email, license, prefix):
             .replace("%FNAME%", fname)
 
     # Install directories
-    mkdir(prefix + kde_path + "/contents/images")
+    mkdir(dest + kde_path + "/contents/images")
 
     # Install base images, xmls
     src_img = subdir + "/" + fname + ".jpg"
-    copy(src_img, prefix + img_path);
-    with open(prefix + xml_path, "w") as f:
+    copy(src_img, dest + img_path);
+    with open(dest + xml_path, "w") as f:
         f.write(xml_content)
 
     # Create XML links for Gnome and Mate
-    ln(prefix + gnome_xml_path, xml_path)
-    ln(prefix + mate_xml_path, xml_path)
+    ln(dest + gnome_xml_path, xml_path)
+    ln(dest + mate_xml_path, xml_path)
 
     # Handle KDE
     # Install desktop file and data structure
-    with open(prefix + kde_path + "/metadata.desktop", "w") as f:
+    with open(dest + kde_path + "/metadata.desktop", "w") as f:
         f.write(desktop_content)
-    mkdir(prefix + kde_path + "/contents/images")
-    ln(prefix + kde_img_path, img_path)
+    mkdir(dest + kde_path + "/contents/images")
+    ln(dest + kde_img_path, img_path)
     # KDE wants a thumbnail or "screenshot" at /contents/screenshot.png
-    sp.run(["convert", src_img, "-resize", "500x500", prefix + kde_path + "/contents/screenshot.png"])
+    sp.run(["convert", src_img, "-resize", "500x500", dest + kde_path + "/contents/screenshot.png"])
 
 def __main__():
     parser = argparse.ArgumentParser(description='Generate data')
-    parser.add_argument('--output', default=".", help="Output dir")
+    parser.add_argument('--output', '-o', default=".", help="Dest DIR")
+    parser.add_argument('--prefix', '-p', default="/usr", help="Prefix DIR")
     arg = parser.parse_args()
 
-    PREFIX = arg.output
+    DEST = arg.output
+    PREFIX = arg.prefix
 
     with open(AUTHORS, 'r') as f:
         authors = yaml.load(f)
 
-    mkdir(PREFIX + IMG_DIR)
-    mkdir(PREFIX + XML_DIR)
-    mkdir(PREFIX + GNOME_XML_DIR)
-    mkdir(PREFIX + MATE_XML_DIR)
-    mkdir(PREFIX + XFCE_IMG_DIR)
+    mkdir(DEST + PREFIX + IMG_DIR)
+    mkdir(DEST + PREFIX + XML_DIR)
+    mkdir(DEST + PREFIX + GNOME_XML_DIR)
+    mkdir(DEST + PREFIX + MATE_XML_DIR)
+    mkdir(DEST + PREFIX + XFCE_IMG_DIR)
 
     for author in authors:
         subdir = CWD + "/" + author["dir"]
@@ -127,7 +129,7 @@ def __main__():
             titles = yaml.load(f)
 
         for title in titles:
-            proc_image(subdir, name, title, email, license, PREFIX)
+            proc_image(subdir, name, title, email, license, DEST, PREFIX)
 
 if __name__ == "__main__":
     __main__()
