@@ -7,7 +7,6 @@ import os
 import os.path
 import yaml
 import subprocess as sp
-from PIL import Image
 
 CWD = os.getcwd()
 
