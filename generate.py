@@ -6,24 +6,26 @@ import shutil
 import os
 import os.path
 import yaml
+import subprocess as sp
+from PIL import Image
 
 CWD = os.getcwd()
 
-IMG_DIR = "/usr/share/backgrounds"
+IMG_DIR = "/share/backgrounds"
 IMG_PATH = IMG_DIR + "/%s.jpg"
-XML_DIR = "/usr/share/background-properties"
+XML_DIR = "/share/background-properties"
 XML_PATH = XML_DIR + "/%s.xml"
 
-GNOME_XML_DIR = "/usr/share/gnome-background-properties"
+GNOME_XML_DIR = "/share/gnome-background-properties"
 GNOME_XML_PATH = GNOME_XML_DIR + "/%s.xml"
 
-MATE_XML_DIR = "/usr/share/gnome-background-properties"
+MATE_XML_DIR = "/share/gnome-background-properties"
 MATE_XML_PATH = MATE_XML_DIR + "/%s.xml"
 
-XFCE_IMG_DIR = "/usr/share/backgrounds/xfce"
+XFCE_IMG_DIR = "/share/backgrounds/xfce"
 XFCE_IMG_PATH = XFCE_IMG_DIR + "/%s.jpg"
 
-KDE_PATH = "/usr/share/wallpapers/%s"
+KDE_PATH = "/share/wallpapers/%s"
 KDE_IMG_PATH = KDE_PATH + "/contents/images/%s.jpg"
 
 AUTHORS = "authors.yaml"
@@ -97,7 +99,8 @@ def proc_image(subdir, author, title, email, license, prefix):
         f.write(desktop_content)
     mkdir(prefix + kde_path + "/contents/images")
     ln(prefix + kde_img_path, img_path)
-
+    # KDE wants a thumbnail or "screenshot" at /contents/screenshot.png
+    sp.run(["convert", src_img, "-resize", "500x500", prefix + kde_path + "/contents/screenshot.png"])
 
 def __main__():
     parser = argparse.ArgumentParser(description='Generate data')
