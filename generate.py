@@ -18,7 +18,7 @@ XML_PATH = XML_DIR + "/%s.xml"
 GNOME_XML_DIR = "/share/gnome-background-properties"
 GNOME_XML_PATH = GNOME_XML_DIR + "/%s.xml"
 
-MATE_XML_DIR = "/share/gnome-background-properties"
+MATE_XML_DIR = "/share/mate-background-properties"
 MATE_XML_PATH = MATE_XML_DIR + "/%s.xml"
 
 XFCE_IMG_DIR = "/share/backgrounds/xfce"
