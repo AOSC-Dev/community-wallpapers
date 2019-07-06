@@ -72,7 +72,9 @@ def proc_image(subdir, author, title, email, license, dest, prefix):
     kde_img_path = (prefix + KDE_IMG_PATH) % (fname, fname)
 
     # Meta data content
-    xml_content = XML_IN.replace("%TITLE%", title).replace("%FILENAME%", img_path)
+    xml_content = XML_IN.replace("%TITLE%", title) \
+            .replace("%FILENAME%", img_path) \
+            .replace("%AUTHOR%", author)
     desktop_content = DESKTOP_IN.replace("%TITLE%", title) \
             .replace("%AUTHOR%", author) \
             .replace("%EMAIL%", email) \
