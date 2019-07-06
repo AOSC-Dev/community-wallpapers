@@ -24,8 +24,9 @@ MATE_XML_PATH = MATE_XML_DIR + "/%s.xml"
 XFCE_IMG_DIR = "/share/backgrounds/xfce"
 XFCE_IMG_PATH = XFCE_IMG_DIR + "/%s.jpg"
 
+# A single file named 1x1 to appease KDE
 KDE_PATH = "/share/wallpapers/%s"
-KDE_IMG_PATH = KDE_PATH + "/contents/images/%s.jpg"
+KDE_IMG_PATH = KDE_PATH + "/contents/images/1x1.jpg"
 
 AUTHORS = "authors.yaml"
 
@@ -69,7 +70,7 @@ def proc_image(subdir, author, title, email, license, dest, prefix):
     mate_xml_path = (prefix + MATE_XML_PATH) % fname
     xfce_img_path = (prefix + XFCE_IMG_PATH) % fname
     kde_path = (prefix + KDE_PATH) % fname
-    kde_img_path = (prefix + KDE_IMG_PATH) % (fname, fname)
+    kde_img_path = (prefix + KDE_IMG_PATH) % fname
 
     # Meta data content
     xml_content = XML_IN.replace("%TITLE%", title) \
