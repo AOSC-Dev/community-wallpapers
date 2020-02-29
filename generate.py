@@ -114,7 +114,7 @@ def __main__():
     PREFIX = arg.prefix
 
     with open(AUTHORS, 'r') as f:
-        authors = yaml.load(f)
+        authors = yaml.full_load(f)
 
     mkdir(DEST + PREFIX + IMG_DIR)
     mkdir(DEST + PREFIX + XML_DIR)
@@ -129,7 +129,7 @@ def __main__():
         license = author["license"]
 
         with open(subdir + "/files.yaml", 'r') as f:
-            titles = yaml.load(f)
+            titles = yaml.full_load(f)
 
         for title in titles:
             proc_image(subdir, name, title, email, license, DEST, PREFIX)
