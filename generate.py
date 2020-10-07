@@ -57,6 +57,12 @@ def normalize_fname(title):
     return title.replace("\'", "").replace(" ", "_").replace("-", "_")
 
 
+def xml_escape(string):
+    ret = string.replace("&", "&amp;")
+    print(ret)
+    return ret
+
+
 def proc_image(subdir, author, title, email, license, dest, prefix):
     print("Author: %s, Image: %s" % (author, title))
     fname = normalize_fname(title)
@@ -75,7 +81,7 @@ def proc_image(subdir, author, title, email, license, dest, prefix):
     # Meta data content
     xml_content = XML_IN.replace("%TITLE%", title) \
             .replace("%FILENAME%", img_path) \
-            .replace("%AUTHOR%", author)
+            .replace("%AUTHOR%", xml_escape(author))
     desktop_content = DESKTOP_IN.replace("%TITLE%", title) \
             .replace("%AUTHOR%", author) \
             .replace("%EMAIL%", email) \
