@@ -54,12 +54,11 @@ def mkdir(path):
 
 
 def normalize_fname(title):
-    return title.replace("\'", "").replace(" ", "_").replace("-", "_")
+    return title.replace("\'", "").replace(" ", "_")
 
 
 def xml_escape(string):
     ret = string.replace("&", "&amp;")
-    print(ret)
     return ret
 
 
