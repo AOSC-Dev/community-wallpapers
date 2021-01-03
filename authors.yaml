@@ -1,16 +1,36 @@
+- name: cth451
+  email: cth451@gmail.com
+  dir: cth451szclsya@aosc.io
+  license: CC BY-NC 4.0
+- name: cth451 & Bugs, Co.
+  email: cth451@gmail.com
+  dir: cth451_and_bugs
+  license: CC BY-NC 4.0
 - name: Mingcong Bai
   email: jeffbai@aosc.io
   dir: JeffBai
   license: CC-BY
+- name: Bill Lin
+  email:
+  dir: LLemonade
+  license: CC BY-NC 4.0
 - name: Megabits
   email: megabitsenmzq@gmail.com
   dir: Megabits_mzq
   license: CC-BY
-- name: cth451
-  email: cth451@gmail.com
-  dir: cth451
-  license: CC-BY
-- name: cth451 & Bugs, Co.
-  email: cth451@gmail.com
-  dir: cth451_and_bugs
-  license: CC-BY
+- name: Neo_Chen
+  email: chenkolei@gmail.com
+  dir: Neo_Chen
+  license: WTFPL
+- name: Neruthes
+  email: i@neruthes.xyz
+  dir: Neruthes
+  license: CC BY-NC-ND 4.0
+- name: Zixu
+  email:
+  dir: OSNine
+  license: CC BY-SA 4.0
+- name: Leo Shen
+  email: szclsya@aosc.io
+  dir: szc1sya
+  license: Public Domain
