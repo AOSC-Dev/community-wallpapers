@@ -8,9 +8,9 @@
   license: CC BY-NC 4.0
 - name: Mingcong Bai
   email: jeffbai@aosc.io
-  dir: JeffBai
-  license: CC-BY
-- name: Bill Lin
+  dir: Mingcong_Bai
+  license: CC BY-NC 4.0
+- name: Zhimin Lin
   email: ''
   dir: LLemonade
   license: CC BY-NC 4.0
@@ -33,7 +33,7 @@
 - name: Leo Shen
   email: szclsya@aosc.io
   dir: szc1sya
-  license: Public Domain
+  license: CC BY-NC-ND 4.0
 - name: Ruikai Liu
   email: rickliu2000@outlook.com
   dir: Rick_Liu
@@ -42,3 +42,31 @@
   email: liyichen20000104@outlook.com
   dir: Yichen_Li
   license: CC BY-SA 4.0
+- name: m0g1c1an
+  email: m0g1cianyang@gmail.com
+  dir: m0g1c1an
+  license: CC BY-NC 4.0
+- name: ALANZ
+  email: 743387789@qq.com
+  dir: ALANZ
+  license: CC BY-NC 4.0
+- name: Canarypwn
+  email: canarypwn@aosc.io
+  dir: Canarypwn
+  license: CC BY-NC 4.0
+- name: CZ
+  email: captainzst@163.com
+  dir: CZ
+  license: CC BY-NC 4.0
+- name: Robin Lu
+  email: robinluaa@outlook.com
+  dir: Robin_Lu
+  license: CC BY-NC 4.0
+- name: TheSaltedFish
+  email: kaywm@aosc.io
+  dir: TheSaltedFish
+  license: CC BY-NC-SA 4.0
+- name: Maria Bombardier
+  email: dev@crh380d.de
+  dir: Maria_Bombardier
+  license: CC0
