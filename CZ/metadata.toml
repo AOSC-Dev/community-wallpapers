@@ -1,0 +1,15 @@
+[[authors]]
+email = "captainzst@163.com"
+name.default = "CZ"
+
+[[wallpapers]]
+title.default = "Sky"
+license = "CC BY-NC 4.0"
+id = "Sky"
+path = "Sky.jpg"
+
+[[wallpapers]]
+title.default = "Windows"
+license = "CC BY-NC 4.0"
+id = "Windows"
+path = "Windows.jpg"

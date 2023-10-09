@@ -1,0 +1,21 @@
+[[authors]]
+email = "i@neruthes.xyz"
+name.default = "Neruthes"
+
+[[wallpapers]]
+title.default = "Leaves Horizon"
+license = "CC BY-NC-ND 4.0"
+id = "Leaves_Horizon"
+path = "Leaves_Horizon.jpg"
+
+[[wallpapers]]
+title.default = "Mini White"
+license = "CC BY-NC-ND 4.0"
+id = "Mini_White"
+path = "Mini_White.jpg"
+
+[[wallpapers]]
+title.default = "Rainy Lily"
+license = "CC BY-NC-ND 4.0"
+id = "Rainy_Lily"
+path = "Rainy_Lily.jpg"

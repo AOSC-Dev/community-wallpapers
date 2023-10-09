@@ -1,0 +1,81 @@
+[[authors]]
+email = ""
+name.default = "Zhimin Lin"
+
+[[wallpapers]]
+title.default = "As Oceans As Skies"
+license = "CC BY-NC 4.0"
+id = "As_Oceans_As_Skies"
+path = "As_Oceans_As_Skies.jpg"
+
+[[wallpapers]]
+title.default = "Concrete Forest"
+license = "CC BY-NC 4.0"
+id = "Concrete_Forest"
+path = "Concrete_Forest.jpg"
+
+[[wallpapers]]
+title.default = "Full Moon"
+license = "CC BY-NC 4.0"
+id = "Full_Moon"
+path = "Full_Moon.jpg"
+
+[[wallpapers]]
+title.default = "Golden Gate"
+license = "CC BY-NC 4.0"
+id = "Golden_Gate"
+path = "Golden_Gate.jpg"
+
+[[wallpapers]]
+title.default = "Grand Canyon - 1"
+license = "CC BY-NC 4.0"
+id = "Grand_Canyon_-_1"
+path = "Grand_Canyon_-_1.jpg"
+
+[[wallpapers]]
+title.default = "Grand Canyon - 2"
+license = "CC BY-NC 4.0"
+id = "Grand_Canyon_-_2"
+path = "Grand_Canyon_-_2.jpg"
+
+[[wallpapers]]
+title.default = "Grand Canyon - 3"
+license = "CC BY-NC 4.0"
+id = "Grand_Canyon_-_3"
+path = "Grand_Canyon_-_3.jpg"
+
+[[wallpapers]]
+title.default = "La Jolla Beach"
+license = "CC BY-NC 4.0"
+id = "La_Jolla_Beach"
+path = "La_Jolla_Beach.jpg"
+
+[[wallpapers]]
+title.default = "Mountain Range"
+license = "CC BY-NC 4.0"
+id = "Mountain_Range"
+path = "Mountain_Range.jpg"
+
+[[wallpapers]]
+title.default = "Night River"
+license = "CC BY-NC 4.0"
+id = "Night_River"
+path = "Night_River.jpg"
+
+[[wallpapers]]
+title.default = "Oh Deer!"
+license = "CC BY-NC 4.0"
+id = "Oh_Deer!"
+path = "Oh_Deer!.jpg"
+
+[[wallpapers]]
+title.default = "Sunshine Ahead"
+license = "CC BY-NC 4.0"
+id = "Sunshine_Ahead"
+path = "Sunshine_Ahead.jpg"
+
+[[wallpapers]]
+title.default = "The Plough"
+license = "CC BY-NC 4.0"
+id = "The_Plough"
+path = "The_Plough.jpg"
