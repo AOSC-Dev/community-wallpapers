@@ -1,0 +1,27 @@
+[[authors]]
+email = "liyichen20000104@outlook.com"
+name.default = "Yichen Li"
+
+[[wallpapers]]
+title.default = "Jade Dragon"
+license = "CC BY-SA 4.0"
+id = "Jade_Dragon"
+path = "Jade_Dragon.jpg"
+
+[[wallpapers]]
+title.default = "Lugu"
+license = "CC BY-SA 4.0"
+id = "Lugu"
+path = "Lugu.jpg"
+
+[[wallpapers]]
+title.default = "Rime"
+license = "CC BY-SA 4.0"
+id = "Rime"
+path = "Rime.jpg"
+
+[[wallpapers]]
+title.default = "Seagulls"
+license = "CC BY-SA 4.0"
+id = "Seagulls"
+path = "Seagulls.jpg"

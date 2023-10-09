@@ -1,0 +1,21 @@
+[[authors]]
+email = "szclsya@aosc.io"
+name.default = "Leo Shen"
+
+[[wallpapers]]
+title.default = "Dusk"
+license = "CC BY-NC-ND 4.0"
+id = "Dusk"
+path = "Dusk.jpg"
+
+[[wallpapers]]
+title.default = "Spring"
+license = "CC BY-NC-ND 4.0"
+id = "Spring"
+path = "Spring.jpg"
+
+[[wallpapers]]
+title.default = "Untitled Window Pic"
+license = "CC BY-NC-ND 4.0"
+id = "Untitled_Window_Pic"
+path = "Untitled_Window_Pic.jpg"

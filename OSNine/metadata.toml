@@ -1,0 +1,39 @@
+[[authors]]
+email = ""
+name.default = "Zixu"
+
+[[wallpapers]]
+title.default = "Bee and Flower"
+license = "CC BY-SA 4.0"
+id = "Bee_and_Flower"
+path = "Bee_and_Flower.jpg"
+
+[[wallpapers]]
+title.default = "Cricket and Flora"
+license = "CC BY-SA 4.0"
+id = "Cricket_and_Flora"
+path = "Cricket_and_Flora.jpg"
+
+[[wallpapers]]
+title.default = "Lanceleaf Tickseed"
+license = "CC BY-SA 4.0"
+id = "Lanceleaf_Tickseed"
+path = "Lanceleaf_Tickseed.jpg"
+
+[[wallpapers]]
+title.default = "Medicago in Dusk"
+license = "CC BY-SA 4.0"
+id = "Medicago_in_Dusk"
+path = "Medicago_in_Dusk.jpg"
+
+[[wallpapers]]
+title.default = "Plum Blossom"
+license = "CC BY-SA 4.0"
+id = "Plum_Blossom"
+path = "Plum_Blossom.jpg"
+
+[[wallpapers]]
+title.default = "Willow Curtain"
+license = "CC BY-SA 4.0"
+id = "Willow_Curtain"
+path = "Willow_Curtain.jpg"

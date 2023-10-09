@@ -1,0 +1,15 @@
+[[authors]]
+email = "cth451@gmail.com"
+name.default = "cth451 & Bugs, Co."
+
+[[wallpapers]]
+title.default = "Harmony Traffic Light"
+license = "CC BY-NC 4.0"
+id = "Harmony_Traffic_Light"
+path = "Harmony_Traffic_Light.jpg"
+
+[[wallpapers]]
+title.default = "Pink Route 20"
+license = "CC BY-NC 4.0"
+id = "Pink_Route_20"
+path = "Pink_Route_20.jpg"

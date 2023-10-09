@@ -1,0 +1,33 @@
+[[authors]]
+email = "rickliu2000@outlook.com"
+name.default = "Ruikai Liu"
+
+[[wallpapers]]
+title.default = "Capitol Dawn"
+license = "CC BY-NC 4.0"
+id = "Capitol_Dawn"
+path = "Capitol_Dawn.jpg"
+
+[[wallpapers]]
+title.default = "Lake Mendota Blue"
+license = "CC BY-NC 4.0"
+id = "Lake_Mendota_Blue"
+path = "Lake_Mendota_Blue.jpg"
+
+[[wallpapers]]
+title.default = "Lakeshore Bike Path"
+license = "CC BY-NC 4.0"
+id = "Lakeshore_Bike_Path"
+path = "Lakeshore_Bike_Path.jpg"
+
+[[wallpapers]]
+title.default = "Lakeshore in Early Spring"
+license = "CC BY-NC 4.0"
+id = "Lakeshore_in_Early_Spring"
+path = "Lakeshore_in_Early_Spring.jpg"
+
+[[wallpapers]]
+title.default = "Winter on Mendota"
+license = "CC BY-NC 4.0"
+id = "Winter_on_Mendota"
+path = "Winter_on_Mendota.jpg"
