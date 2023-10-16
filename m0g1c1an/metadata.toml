@@ -42,3 +42,9 @@ title.default = "Artist's Bluff Lookout"
 license = "CC BY 4.0"
 id = "Artists_Bluff_Lookout"
 path = "Artists_Bluff_Lookout.jpg"
+
+[[wallpapers]]
+title.default = "Embrace Me"
+license = "CC BY 4.0"
+id = "Embrace_Me"
+path = "Embrace_Me.jpg"
