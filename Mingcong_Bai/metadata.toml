@@ -359,3 +359,9 @@ title.zh-CN = "夏末"
 license = "CC BY-NC 4.0"
 id = "Кончится_лето"
 path = "Кончится_лето.jpg"
+
+[[wallpapers]]
+title.default = "Castles of the Sea"
+license = "CC BY-NC 4.0"
+id = "Castles_of_the_Sea"
+path = "Castles_of_the_Sea.jpg"
