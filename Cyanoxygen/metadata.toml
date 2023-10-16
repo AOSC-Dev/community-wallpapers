@@ -1,0 +1,9 @@
+[[authors]]
+email = "cyan@cyano.uk"
+name.default = "Cyanoxygen"
+
+[[wallpapers]]
+title.default = "Harmony"
+license = "CC BY-NC 4.0"
+id = "Harmony"
+path = "Harmony.jpg"

@@ -1,0 +1,9 @@
+[[authors]]
+email = "imbearchild@outlook.com"
+name.default = "Nianqing Yao"
+
+[[wallpapers]]
+title.default = "Blurry Cat"
+license = "WTFPL"
+id = "Blurry_Cat"
+path = "Blurry_Cat.jpg"

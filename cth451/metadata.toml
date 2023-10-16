@@ -1,0 +1,63 @@
+[[authors]]
+email = "cth451@gmail.com"
+name.default = "cth451"
+
+[[wallpapers]]
+title.default = "Brodhead Day"
+license = "CC BY-NC 4.0"
+id = "Brodhead_Day"
+path = "Brodhead_Day.jpg"
+
+[[wallpapers]]
+title.default = "Brodhead Night"
+license = "CC BY-NC 4.0"
+id = "Brodhead_Night"
+path = "Brodhead_Night.jpg"
+
+[[wallpapers]]
+title.default = "Chapel in Blossom"
+license = "CC BY-NC 4.0"
+id = "Chapel_in_Blossom"
+path = "Chapel_in_Blossom.jpg"
+
+[[wallpapers]]
+title.default = "College & 4th St Crossing"
+license = "CC BY-NC 4.0"
+id = "College_&_4th_St_Crossing"
+path = "College_&_4th_St_Crossing.jpg"
+
+[[wallpapers]]
+title.default = "Fontana Access Bridge"
+license = "CC BY-NC 4.0"
+id = "Fontana_Access_Bridge"
+path = "Fontana_Access_Bridge.jpg"
+
+[[wallpapers]]
+title.default = "Lights in Botanical Garden"
+license = "CC BY-NC 4.0"
+id = "Lights_in_Botanical_Garden"
+path = "Lights_in_Botanical_Garden.jpg"
+
+[[wallpapers]]
+title.default = "Stuck in the Smokies"
+license = "CC BY-NC 4.0"
+id = "Stuck_in_the_Smokies"
+path = "Stuck_in_the_Smokies.jpg"
+
+[[wallpapers]]
+title.default = "Sunset"
+license = "CC BY-NC 4.0"
+id = "Sunset"
+path = "Sunset.jpg"
+
+[[wallpapers]]
+title.default = "Turkey Vulture"
+license = "CC BY-NC 4.0"
+id = "Turkey_Vulture"
+path = "Turkey_Vulture.jpg"
+
+[[wallpapers]]
+title.default = "View from Moore's Knob"
+license = "CC BY-NC 4.0"
+id = "View_from_Moore's_Knob"
+path = "View_from_Moore's_Knob.jpg"

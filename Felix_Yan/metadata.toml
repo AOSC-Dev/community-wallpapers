@@ -1,0 +1,15 @@
+[[authors]]
+email = "felixonmars@archlinux.org"
+name.default = "Felix Yan"
+
+[[wallpapers]]
+title.default = "Nyhavn i København"
+license = "CC BY-NC 4.0"
+id = "Nyhavn_i_København"
+path = "Nyhavn_i_København.jpg"
+
+[[wallpapers]]
+title.default = "Suomen maantie"
+license = "CC BY-NC 4.0"
+id = "Suomen_maantie"
+path = "Suomen_maantie.jpg"

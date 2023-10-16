@@ -1,0 +1,39 @@
+[[authors]]
+email = "m0g1c14n@gmail.com"
+name.default = "Mogician Yang"
+
+[[wallpapers]]
+title.default = "Abandoned Sunset"
+license = "CC BY 4.0"
+id = "Abandoned_Sunset"
+path = "Abandoned_Sunset.jpg"
+
+[[wallpapers]]
+title.default = "Corporation Beach II"
+license = "CC BY 4.0"
+id = "Corporation_Beach_II"
+path = "Corporation_Beach_II.jpg"
+
+[[wallpapers]]
+title.default = "Corporation Beach"
+license = "CC BY 4.0"
+id = "Corporation_Beach"
+path = "Corporation_Beach.jpg"
+
+[[wallpapers]]
+title.default = "Dune of Weed"
+license = "CC BY 4.0"
+id = "Dune_of_Weed"
+path = "Dune_of_Weed.jpg"
+
+[[wallpapers]]
+title.default = "The Crest"
+license = "CC BY 4.0"
+id = "The_Crest"
+path = "The_Crest.jpg"
+
+[[wallpapers]]
+title.default = "The Thrill is Gone"
+license = "CC BY 4.0"
+id = "The_Thrill_is_Gone"
+path = "The_Thrill_is_Gone.jpg"

@@ -1,0 +1,21 @@
+[[authors]]
+email = "me@nicho1as.wang"
+name.default = "Nicholas Wang"
+
+[[wallpapers]]
+title.default = "Indy"
+license = "CC BY-NC 4.0"
+id = "Indy"
+path = "Indy.png"
+
+[[wallpapers]]
+title.default = "Overcast"
+license = "CC BY-NC 4.0"
+id = "Overcast"
+path = "Overcast.png"
+
+[[wallpapers]]
+title.default = "UIUC ECE Building"
+license = "CC BY-NC 4.0"
+id = "UIUC_ECE_Building"
+path = "UIUC_ECE_Building.jpg"
