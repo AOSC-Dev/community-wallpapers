@@ -204,3 +204,9 @@ title.zh-CN = "纪念堂"
 license = "CC BY-NC 4.0"
 id = "Union"
 path = "Union.jpg"
+
+[[wallpapers]]
+title.default = "Northern Mocking Bird"
+license = "CC BY-NC 4.0"
+id = "Northern_Mocking_Bird"
+path = "Northern_Mocking_Bird.jpg"
