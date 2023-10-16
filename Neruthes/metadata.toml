@@ -4,18 +4,21 @@ name.default = "Neruthes"
 
 [[wallpapers]]
 title.default = "Leaves Horizon"
+title.zh-CN = "之地平线"
 license = "CC BY-NC-ND 4.0"
 id = "Leaves_Horizon"
 path = "Leaves_Horizon.jpg"
 
 [[wallpapers]]
 title.default = "Mini White"
+title.zh-CN = "雪白米花"
 license = "CC BY-NC-ND 4.0"
 id = "Mini_White"
 path = "Mini_White.jpg"
 
 [[wallpapers]]
 title.default = "Rainy Lily"
+title.zh-CN = "雨中百合"
 license = "CC BY-NC-ND 4.0"
 id = "Rainy_Lily"
 path = "Rainy_Lily.jpg"

@@ -4,12 +4,14 @@ name.default = "cth451 & Bugs, Co."
 
 [[wallpapers]]
 title.default = "Harmony Traffic Light"
+title.zh-CN = "人行横道（粉）"
 license = "CC BY-NC 4.0"
 id = "Harmony_Traffic_Light"
 path = "Harmony_Traffic_Light.jpg"
 
 [[wallpapers]]
 title.default = "Pink Route 20"
+title.zh-CN = "20 号国道（粉）"
 license = "CC BY-NC 4.0"
 id = "Pink_Route_20"
 path = "Pink_Route_20.jpg"

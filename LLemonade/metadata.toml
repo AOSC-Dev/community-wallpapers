@@ -1,81 +1,95 @@
 [[authors]]
 email = ""
 name.default = "Zhimin Lin"
+name.zh-CN = "林之珉"
 
 [[wallpapers]]
 title.default = "As Oceans As Skies"
+title.zh-CN = "海天一色"
 license = "CC BY-NC 4.0"
 id = "As_Oceans_As_Skies"
 path = "As_Oceans_As_Skies.jpg"
 
 [[wallpapers]]
 title.default = "Concrete Forest"
+title.zh-CN = "城市丛林"
 license = "CC BY-NC 4.0"
 id = "Concrete_Forest"
 path = "Concrete_Forest.jpg"
 
 [[wallpapers]]
 title.default = "Full Moon"
+title.zh-CN = "满月"
 license = "CC BY-NC 4.0"
 id = "Full_Moon"
 path = "Full_Moon.jpg"
 
 [[wallpapers]]
 title.default = "Golden Gate"
+title.zh-CN = "金门大桥"
 license = "CC BY-NC 4.0"
 id = "Golden_Gate"
 path = "Golden_Gate.jpg"
 
 [[wallpapers]]
-title.default = "Grand Canyon - 1"
+title.default = "Grand Canyon 1"
+title.zh-CN = "大峡谷 1"
 license = "CC BY-NC 4.0"
 id = "Grand_Canyon_-_1"
 path = "Grand_Canyon_-_1.jpg"
 
 [[wallpapers]]
-title.default = "Grand Canyon - 2"
+title.default = "Grand Canyon 2"
+title.zh-CN = "大峡谷 2"
 license = "CC BY-NC 4.0"
 id = "Grand_Canyon_-_2"
 path = "Grand_Canyon_-_2.jpg"
 
 [[wallpapers]]
-title.default = "Grand Canyon - 3"
+title.default = "Grand Canyon 3"
+title.zh-CN = "大峡谷 3"
 license = "CC BY-NC 4.0"
 id = "Grand_Canyon_-_3"
 path = "Grand_Canyon_-_3.jpg"
 
 [[wallpapers]]
 title.default = "La Jolla Beach"
+title.zh-CN = "拉霍亚海滩"
 license = "CC BY-NC 4.0"
 id = "La_Jolla_Beach"
 path = "La_Jolla_Beach.jpg"
 
 [[wallpapers]]
 title.default = "Mountain Range"
+title.zh-CN = "广袤天地"
 license = "CC BY-NC 4.0"
 id = "Mountain_Range"
 path = "Mountain_Range.jpg"
 
 [[wallpapers]]
 title.default = "Night River"
+title.zh-CN = "江畔之夜"
 license = "CC BY-NC 4.0"
 id = "Night_River"
 path = "Night_River.jpg"
 
 [[wallpapers]]
 title.default = "Oh Deer!"
+title.zh-CN = "观鹿"
 license = "CC BY-NC 4.0"
 id = "Oh_Deer!"
 path = "Oh_Deer!.jpg"
 
 [[wallpapers]]
 title.default = "Sunshine Ahead"
+title.zh-CN = "拨云见日"
 license = "CC BY-NC 4.0"
 id = "Sunshine_Ahead"
 path = "Sunshine_Ahead.jpg"
 
 [[wallpapers]]
 title.default = "The Plough"
+title.zh-CN = "北斗"
 license = "CC BY-NC 4.0"
 id = "The_Plough"
 path = "The_Plough.jpg"

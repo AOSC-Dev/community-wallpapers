@@ -10,36 +10,42 @@ path = "DNA.jpg"
 
 [[wallpapers]]
 title.default = "Material Tower 2"
+title.zh-CN = "物质塔 2"
 license = "CC BY-NC 4.0"
 id = "Material_Tower_2"
 path = "Material_Tower_2.jpg"
 
 [[wallpapers]]
 title.default = "Moon and Earth"
+title.zh-CN = "月与地球"
 license = "CC BY-NC 4.0"
 id = "Moon_and_Earth"
 path = "Moon_and_Earth.jpg"
 
 [[wallpapers]]
 title.default = "Moon"
+title.zh-CN = "皎月"
 license = "CC BY-NC 4.0"
 id = "Moon"
 path = "Moon.jpg"
 
 [[wallpapers]]
 title.default = "Shanghai Clearing House"
+title.zh-CN = "上海清算所"
 license = "CC BY-NC 4.0"
 id = "Shanghai_Clearing_House"
 path = "Shanghai_Clearing_House.jpg"
 
 [[wallpapers]]
 title.default = "SIST"
+title.zh-CN = "学院"
 license = "CC BY-NC 4.0"
 id = "SIST"
 path = "SIST.jpg"
 
 [[wallpapers]]
 title.default = "Tux"
+title.zh-CN = "小企鹅"
 license = "CC BY-NC 4.0"
 id = "Tux"
 path = "Tux.jpg"

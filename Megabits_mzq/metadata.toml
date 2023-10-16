@@ -3,211 +3,246 @@ email = "megabitsenmzq@gmail.com"
 name.default = "Megabits"
 
 [[wallpapers]]
-title.default = "10th Anniversary - Dark"
+title.default = "10th Anniversary (Dark)"
+title.zh-CN = "十周年（暗）"
 license = "CC BY-NC 4.0"
 id = "10th_Anniversary_-_Dark"
 path = "10th_Anniversary_-_Dark.jpg"
 
 [[wallpapers]]
-title.default = "10th Anniversary - Light"
+title.default = "10th Anniversary (Light)"
+title.zh-CN = "十周年（亮）"
 license = "CC BY-NC 4.0"
 id = "10th_Anniversary_-_Light"
 path = "10th_Anniversary_-_Light.jpg"
 
 [[wallpapers]]
-title.default = "10th Anniversary - Retro"
+title.default = "10th Anniversary (Retro)"
+title.zh-CN = "十周年（旧时光）"
 license = "CC BY-NC 4.0"
 id = "10th_Anniversary_-_Retro"
 path = "10th_Anniversary_-_Retro.jpg"
 
 [[wallpapers]]
 title.default = "A Hook in the Mist"
+title.zh-CN = "雾中吊机"
 license = "CC BY-NC 4.0"
 id = "A_Hook_in_the_Mist"
 path = "A_Hook_in_the_Mist.jpg"
 
 [[wallpapers]]
 title.default = "Antenna"
+title.zh-CN = "天线"
 license = "CC BY-NC 4.0"
 id = "Antenna"
 path = "Antenna.jpg"
 
 [[wallpapers]]
-title.default = "Antenna - 2"
+title.default = "Antenna 2"
+title.zh-CN = "天线 2"
 license = "CC BY-NC 4.0"
 id = "Antenna_-_2"
 path = "Antenna_-_2.jpg"
 
 [[wallpapers]]
 title.default = "Arakawa River"
+title.zh-CN = "荒川"
 license = "CC BY-NC 4.0"
 id = "Arakawa_River"
 path = "Arakawa_River.jpg"
 
 [[wallpapers]]
 title.default = "Clock"
+title.zh-CN = "园中灯塔"
 license = "CC BY-NC 4.0"
 id = "Clock"
 path = "Clock.jpg"
 
 [[wallpapers]]
 title.default = "Flowers"
+title.zh-CN = "花簇"
 license = "CC BY-NC 4.0"
 id = "Flowers"
 path = "Flowers.jpg"
 
 [[wallpapers]]
-title.default = "Flowers - 2"
+title.default = "Flowers 2"
+title.zh-CN = "花簇 2"
 license = "CC BY-NC 4.0"
 id = "Flowers_-_2"
 path = "Flowers_-_2.jpg"
 
 [[wallpapers]]
 title.default = "Ginkgo"
+title.zh-CN = "银杏"
 license = "CC BY-NC 4.0"
 id = "Ginkgo"
 path = "Ginkgo.jpg"
 
 [[wallpapers]]
 title.default = "Leaves"
+title.zh-CN = "仲夏枫叶"
 license = "CC BY-NC 4.0"
 id = "Leaves"
 path = "Leaves.jpg"
 
 [[wallpapers]]
 title.default = "Light"
+title.zh-CN = "光束"
 license = "CC BY-NC 4.0"
 id = "Light"
 path = "Light.jpg"
 
 [[wallpapers]]
-title.default = "Light - 2"
+title.default = "Light 2"
+title.zh-CN = "光束 2"
 license = "CC BY-NC 4.0"
 id = "Light_-_2"
 path = "Light_-_2.jpg"
 
 [[wallpapers]]
 title.default = "Momiji"
+title.zh-CN = "红叶"
 license = "CC BY-NC 4.0"
 id = "Momiji"
 path = "Momiji.jpg"
 
 [[wallpapers]]
 title.default = "Odaiba Sunset"
+title.zh-CN = "御台场日落"
 license = "CC BY-NC 4.0"
 id = "Odaiba_Sunset"
 path = "Odaiba_Sunset.jpg"
 
 [[wallpapers]]
 title.default = "Okutama Lake"
+title.zh-CN = "奧多摩湖"
 license = "CC BY-NC 4.0"
 id = "Okutama_Lake"
 path = "Okutama_Lake.jpg"
 
 [[wallpapers]]
 title.default = "Petals of Sakura"
+title.zh-CN = "樱花雨"
 license = "CC BY-NC 4.0"
 id = "Petals_of_Sakura"
 path = "Petals_of_Sakura.jpg"
 
 [[wallpapers]]
-title.default = "Piece of Light - Dark"
+title.default = "Piece of Light (Dark)"
+title.zh-CN = "光影折叠（暗）"
 license = "CC BY-NC 4.0"
 id = "Piece_of_Light_-_Dark"
 path = "Piece_of_Light_-_Dark.jpg"
 
 [[wallpapers]]
-title.default = "Piece of Light - Light"
+title.default = "Piece of Light (Light)"
+title.zh-CN = "光影折叠（亮）"
 license = "CC BY-NC 4.0"
 id = "Piece_of_Light_-_Light"
 path = "Piece_of_Light_-_Light.jpg"
 
 [[wallpapers]]
 title.default = "Roof"
+title.zh-CN = "穹顶之守"
 license = "CC BY-NC 4.0"
 id = "Roof"
 path = "Roof.jpg"
 
 [[wallpapers]]
-title.default = "Roof - 2"
+title.default = "Roof 2"
+title.zh-CN = "穹顶之守 2"
 license = "CC BY-NC 4.0"
 id = "Roof_-_2"
 path = "Roof_-_2.jpg"
 
 [[wallpapers]]
-title.default = "Roof - 3"
+title.default = "Roof 3"
+title.zh-CN = "穹顶之守 3"
 license = "CC BY-NC 4.0"
 id = "Roof_-_3"
 path = "Roof_-_3.jpg"
 
 [[wallpapers]]
-title.default = "Roof - 4"
+title.default = "Roof 4"
+title.zh-CN = "穹顶之守 4"
 license = "CC BY-NC 4.0"
 id = "Roof_-_4"
 path = "Roof_-_4.jpg"
 
 [[wallpapers]]
 title.default = "Seaside"
+title.zh-CN = "湾岸"
 license = "CC BY-NC 4.0"
 id = "Seaside"
 path = "Seaside.jpg"
 
 [[wallpapers]]
 title.default = "Seibu Ikebukuro Line"
+title.zh-CN = "西武池袋线"
 license = "CC BY-NC 4.0"
 id = "Seibu_Ikebukuro_Line"
 path = "Seibu_Ikebukuro_Line.jpg"
 
 [[wallpapers]]
 title.default = "Sky of Shiinamati"
+title.zh-CN = "椎名町天际"
 license = "CC BY-NC 4.0"
 id = "Sky_of_Shiinamati"
 path = "Sky_of_Shiinamati.jpg"
 
 [[wallpapers]]
 title.default = "Snowy Railway"
+title.zh-CN = "雪中铁道"
 license = "CC BY-NC 4.0"
 id = "Snowy_Railway"
 path = "Snowy_Railway.jpg"
 
 [[wallpapers]]
 title.default = "The Autumn of the Shrine"
+title.zh-CN = "庙宇之秋"
 license = "CC BY-NC 4.0"
 id = "The_Autumn_of_the_Shrine"
 path = "The_Autumn_of_the_Shrine.jpg"
 
 [[wallpapers]]
 title.default = "True Blue"
+title.zh-CN = "蓝天与高楼"
 license = "CC BY-NC 4.0"
 id = "True_Blue"
 path = "True_Blue.jpg"
 
 [[wallpapers]]
 title.default = "Utility Pole"
+title.zh-CN = "电线杆"
 license = "CC BY-NC 4.0"
 id = "Utility_Pole"
 path = "Utility_Pole.jpg"
 
 [[wallpapers]]
-title.default = "Utility Pole - 2"
+title.default = "Utility Pole 2"
+title.zh-CN = "电线杆 2"
 license = "CC BY-NC 4.0"
 id = "Utility_Pole_-_2"
 path = "Utility_Pole_-_2.jpg"
 
 [[wallpapers]]
-title.default = "Utility Pole - 3"
+title.default = "Utility Pole 3"
+title.zh-CN = "电线杆 3"
 license = "CC BY-NC 4.0"
 id = "Utility_Pole_-_3"
 path = "Utility_Pole_-_3.jpg"
 
 [[wallpapers]]
 title.default = "Walking on the Bridge"
+title.zh-CN = "天桥"
 license = "CC BY-NC 4.0"
 id = "Walking_on_the_Bridge"
 path = "Walking_on_the_Bridge.jpg"
 
 [[wallpapers]]
 title.default = "Yokohama Tasogare"
+title.zh-CN = "横滨日暮"
 license = "CC BY-NC 4.0"
 id = "Yokohama_Tasogare"
 path = "Yokohama_Tasogare.jpg"
