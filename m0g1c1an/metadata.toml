@@ -39,24 +39,28 @@ path = "Summer_UMass.jpg"
 
 [[wallpapers]]
 title.default = "Artist's Bluff Lookout"
+title.zh-CN = "五色山谷"
 license = "CC BY 4.0"
 id = "Artists_Bluff_Lookout"
 path = "Artists_Bluff_Lookout.jpg"
 
 [[wallpapers]]
 title.default = "Embrace Me"
+title.zh-CN = "狂澜相拥"
 license = "CC BY 4.0"
 id = "Embrace_Me"
 path = "Embrace_Me.jpg"
 
 [[wallpapers]]
 title.default = "Somewhere, Sometime"
+title.zh-CN = "似有光阴"
 license = "CC BY 4.0"
 id = "Somewhere_Sometime"
 path = "Somewhere_Sometime.jpg"
 
 [[wallpapers]]
 title.default = "Stair ⇨ Exit"
+title.zh-CN = "此是通幽处"
 license = "CC BY 4.0"
 id = "Stair_Exit"
 path = "Stair_Exit.jpg"

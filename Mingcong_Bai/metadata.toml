@@ -362,18 +362,21 @@ path = "Кончится_лето.jpg"
 
 [[wallpapers]]
 title.default = "Castles of the Sea"
+title.zh-CN = "海市"
 license = "CC BY-NC 4.0"
 id = "Castles_of_the_Sea"
 path = "Castles_of_the_Sea.jpg"
 
 [[wallpapers]]
 title.default = "Highway Blues"
+title.zh-CN = "曲径"
 license = "CC BY-NC 4.0"
 id = "Highway_Blues"
 path = "Highway_Blues.jpg"
 
 [[wallpapers]]
 title.default = "This Way Up"
+title.zh-CN = "登高"
 license = "CC BY-NC 4.0"
 id = "This_Way_Up"
 path = "This_Way_Up.jpg"

@@ -4,12 +4,14 @@ name.default = "George Miao"
 
 [[wallpapers]]
 title.default = "Dawn"
+title.zh-CN = "云顶日出"
 license = "CC BY-NC 4.0"
 id = "Dawn"
 path = "Dawn.jpg"
 
 [[wallpapers]]
 title.default = "Observatory"
+title.zh-CN = "瞭望天际"
 license = "CC BY-NC 4.0"
 id = "Observatory"
 path = "Observatory.jpg"
