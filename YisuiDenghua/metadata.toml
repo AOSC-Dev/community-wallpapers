@@ -1,0 +1,15 @@
+[[authors]]
+email = ""
+name.default = "Yisui Denghua"
+
+[[wallpapers]]
+title.default = "Frame"
+license = "CC BY-NC 4.0"
+id = "Frame"
+path = "Frame.png"
+
+[[wallpapers]]
+title.default = "Ikiru"
+license = "CC BY-NC 4.0"
+id = "Ikiru"
+path = "Ikiru.png"
