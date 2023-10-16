@@ -3,7 +3,8 @@ email = "canarypwn@aosc.io"
 name.default = "Alex Qin"
 
 [[wallpapers]]
-title.default = "SD Desert"
+title.default = "Anza Borrego"
+title.zh-CN = "博雷戈沙漠"
 license = "CC BY-NC 4.0"
 id = "SD_Desert"
 path = "SD_Desert.jpg"

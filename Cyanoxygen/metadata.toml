@@ -4,6 +4,7 @@ name.default = "Cyanoxygen"
 
 [[wallpapers]]
 title.default = "Harmony"
+title.zh-CN = "祥和"
 license = "CC BY-NC 4.0"
 id = "Harmony"
 path = "Harmony.jpg"

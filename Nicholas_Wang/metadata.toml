@@ -4,18 +4,21 @@ name.default = "Nicholas Wang"
 
 [[wallpapers]]
 title.default = "Indy"
+title.zh-CN = "印第安纳"
 license = "CC BY-NC 4.0"
 id = "Indy"
 path = "Indy.png"
 
 [[wallpapers]]
 title.default = "Overcast"
+title.zh-CN = "云朵与远方"
 license = "CC BY-NC 4.0"
 id = "Overcast"
 path = "Overcast.png"
 
 [[wallpapers]]
 title.default = "UIUC ECE Building"
+title.zh-CN = "香槟学府"
 license = "CC BY-NC 4.0"
 id = "UIUC_ECE_Building"
 path = "UIUC_ECE_Building.jpg"

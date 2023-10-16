@@ -4,42 +4,49 @@ name.default = "Mingcong Bai"
 
 [[wallpapers]]
 title.default = "Auspicious Clouds"
+title.zh-CN = "祥云"
 license = "CC BY-NC 4.0"
 id = "Auspicious_Clouds"
 path = "Auspicious_Clouds.jpg"
 
 [[wallpapers]]
 title.default = "Extraterrestrial"
+title.zh-CN = "异域"
 license = "CC BY-NC 4.0"
 id = "Extraterrestrial"
 path = "Extraterrestrial.jpg"
 
 [[wallpapers]]
 title.default = "Far Afield"
+title.zh-CN = "向往"
 license = "CC BY-NC 4.0"
 id = "Far_Afield"
 path = "Far_Afield.jpg"
 
 [[wallpapers]]
 title.default = "Ice Plants"
+title.zh-CN = "冰草"
 license = "CC BY-NC 4.0"
 id = "Ice_Plants"
 path = "Ice_Plants.jpg"
 
 [[wallpapers]]
 title.default = "Lux Adoris"
+title.zh-CN = "炽热"
 license = "CC BY-NC 4.0"
 id = "Lux_Adoris"
 path = "Lux_Adoris.jpg"
 
 [[wallpapers]]
 title.default = "Turf"
+title.zh-CN = "草丘"
 license = "CC BY-NC 4.0"
 id = "Turf"
 path = "Turf.jpg"
 
 [[wallpapers]]
 title.default = "Vista"
+title.zh-CN = "远景"
 license = "CC BY-NC 4.0"
 id = "Vista"
 path = "Vista.jpg"

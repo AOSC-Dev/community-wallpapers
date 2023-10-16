@@ -4,60 +4,70 @@ name.default = "cth451"
 
 [[wallpapers]]
 title.default = "Brodhead Day"
+title.zh-CN = "布罗德黑德午间"
 license = "CC BY-NC 4.0"
 id = "Brodhead_Day"
 path = "Brodhead_Day.jpg"
 
 [[wallpapers]]
 title.default = "Brodhead Night"
+title.zh-CN = "布罗德黑德之夜"
 license = "CC BY-NC 4.0"
 id = "Brodhead_Night"
 path = "Brodhead_Night.jpg"
 
 [[wallpapers]]
 title.default = "Chapel in Blossom"
+title.zh-CN = "花与教堂"
 license = "CC BY-NC 4.0"
 id = "Chapel_in_Blossom"
 path = "Chapel_in_Blossom.jpg"
 
 [[wallpapers]]
 title.default = "College & 4th St Crossing"
+title.zh-CN = "迷宫十字"
 license = "CC BY-NC 4.0"
 id = "College_&_4th_St_Crossing"
 path = "College_&_4th_St_Crossing.jpg"
 
 [[wallpapers]]
 title.default = "Fontana Access Bridge"
+title.zh-CN = "森林高速"
 license = "CC BY-NC 4.0"
 id = "Fontana_Access_Bridge"
 path = "Fontana_Access_Bridge.jpg"
 
 [[wallpapers]]
 title.default = "Lights in Botanical Garden"
+title.zh-CN = "乐园灯火"
 license = "CC BY-NC 4.0"
 id = "Lights_in_Botanical_Garden"
 path = "Lights_in_Botanical_Garden.jpg"
 
 [[wallpapers]]
 title.default = "Stuck in the Smokies"
+title.zh-CN = "铁骑匍匐"
 license = "CC BY-NC 4.0"
 id = "Stuck_in_the_Smokies"
 path = "Stuck_in_the_Smokies.jpg"
 
 [[wallpapers]]
-title.default = "Sunset"
+title.default = "Sunset Highway"
+title.zh-CN = "日落高速"
 license = "CC BY-NC 4.0"
 id = "Sunset"
 path = "Sunset.jpg"
 
 [[wallpapers]]
 title.default = "Turkey Vulture"
+title.zh-CN = "长空翱翔"
 license = "CC BY-NC 4.0"
 id = "Turkey_Vulture"
 path = "Turkey_Vulture.jpg"
 
 [[wallpapers]]
 title.default = "View from Moore's Knob"
+title.zh-CN = "无止山岭"
 license = "CC BY-NC 4.0"
 id = "View_from_Moore's_Knob"
 path = "View_from_Moore's_Knob.jpg"

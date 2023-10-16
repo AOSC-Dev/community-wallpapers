@@ -4,12 +4,14 @@ name.default = "Felix Yan"
 
 [[wallpapers]]
 title.default = "Nyhavn i København"
+title.zh-CN = "哥本哈根新港"
 license = "CC BY-NC 4.0"
 id = "Nyhavn_i_København"
 path = "Nyhavn_i_København.jpg"
 
 [[wallpapers]]
 title.default = "Suomen maantie"
+title.zh-CN = "芬兰郊外"
 license = "CC BY-NC 4.0"
 id = "Suomen_maantie"
 path = "Suomen_maantie.jpg"

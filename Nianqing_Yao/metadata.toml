@@ -4,6 +4,7 @@ name.default = "Nianqing Yao"
 
 [[wallpapers]]
 title.default = "Blurry Cat"
+title.zh-CN = "让我瞅瞅"
 license = "WTFPL"
 id = "Blurry_Cat"
 path = "Blurry_Cat.jpg"

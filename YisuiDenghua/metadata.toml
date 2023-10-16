@@ -4,12 +4,14 @@ name.default = "Yisui Denghua"
 
 [[wallpapers]]
 title.default = "Frame"
+title.zh-CN = "彩帧"
 license = "CC BY-NC 4.0"
 id = "Frame"
 path = "Frame.png"
 
 [[wallpapers]]
 title.default = "Ikiru"
+title.zh-CN = "彩框"
 license = "CC BY-NC 4.0"
 id = "Ikiru"
 path = "Ikiru.png"
