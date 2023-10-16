@@ -365,3 +365,9 @@ title.default = "Castles of the Sea"
 license = "CC BY-NC 4.0"
 id = "Castles_of_the_Sea"
 path = "Castles_of_the_Sea.jpg"
+
+[[wallpapers]]
+title.default = "Highway Blues"
+license = "CC BY-NC 4.0"
+id = "Highway_Blues"
+path = "Highway_Blues.jpg"
