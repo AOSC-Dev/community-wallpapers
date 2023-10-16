@@ -36,3 +36,9 @@ title.zh-CN = "麻省夏日"
 license = "CC BY-NC 4.0"
 id = "Summer_UMass"
 path = "Summer_UMass.jpg"
+
+[[wallpapers]]
+title.default = "Artist's Bluff Lookout"
+license = "CC BY 4.0"
+id = "Artists_Bluff_Lookout"
+path = "Artists_Bluff_Lookout.jpg"
