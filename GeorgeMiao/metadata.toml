@@ -7,3 +7,9 @@ title.default = "Dawn"
 license = "CC BY-NC 4.0"
 id = "Dawn"
 path = "Dawn.jpg"
+
+[[wallpapers]]
+title.default = "Observatory"
+license = "CC BY-NC 4.0"
+id = "Observatory"
+path = "Observatory.jpg"
