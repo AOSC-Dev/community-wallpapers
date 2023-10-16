@@ -48,3 +48,9 @@ title.default = "Embrace Me"
 license = "CC BY 4.0"
 id = "Embrace_Me"
 path = "Embrace_Me.jpg"
+
+[[wallpapers]]
+title.default = "Somewhere, Sometime"
+license = "CC BY 4.0"
+id = "Somewhere_Sometime"
+path = "Somewhere_Sometime.jpg"
