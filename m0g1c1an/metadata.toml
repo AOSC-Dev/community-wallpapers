@@ -54,3 +54,9 @@ title.default = "Somewhere, Sometime"
 license = "CC BY 4.0"
 id = "Somewhere_Sometime"
 path = "Somewhere_Sometime.jpg"
+
+[[wallpapers]]
+title.default = "Stair ⇨ Exit"
+license = "CC BY 4.0"
+id = "Stair_Exit"
+path = "Stair_Exit.jpg"
