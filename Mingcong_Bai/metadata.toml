@@ -371,3 +371,9 @@ title.default = "Highway Blues"
 license = "CC BY-NC 4.0"
 id = "Highway_Blues"
 path = "Highway_Blues.jpg"
+
+[[wallpapers]]
+title.default = "This Way Up"
+license = "CC BY-NC 4.0"
+id = "This_Way_Up"
+path = "This_Way_Up.jpg"
