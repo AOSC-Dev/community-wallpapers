@@ -4,7 +4,7 @@ name.default = "Neruthes"
 
 [[wallpapers]]
 title.default = "Leaves Horizon"
-title.zh-CN = "之地平线"
+title.zh-CN = "叶之地平线"
 license = "CC BY-NC-ND 4.0"
 id = "Leaves_Horizon"
 path = "Leaves_Horizon.jpg"
