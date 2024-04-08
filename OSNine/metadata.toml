@@ -1,0 +1,45 @@
+[[authors]]
+email = ""
+name.default = "Zixu"
+
+[[wallpapers]]
+title.default = "Bee and Flower"
+title.zh-CN = "蜂花之舞"
+license = "CC BY-SA 4.0"
+id = "Bee_and_Flower"
+path = "Bee_and_Flower.jpg"
+
+[[wallpapers]]
+title.default = "Cricket and Flora"
+title.zh-CN = "花与蟋蟀"
+license = "CC BY-SA 4.0"
+id = "Cricket_and_Flora"
+path = "Cricket_and_Flora.jpg"
+
+[[wallpapers]]
+title.default = "Lanceleaf Tickseed"
+title.zh-CN = "金鸡菊"
+license = "CC BY-SA 4.0"
+id = "Lanceleaf_Tickseed"
+path = "Lanceleaf_Tickseed.jpg"
+
+[[wallpapers]]
+title.default = "Medicago in Dusk"
+title.zh-CN = "苜蓿"
+license = "CC BY-SA 4.0"
+id = "Medicago_in_Dusk"
+path = "Medicago_in_Dusk.jpg"
+
+[[wallpapers]]
+title.default = "Plum Blossom"
+title.zh-CN = "梅"
+license = "CC BY-SA 4.0"
+id = "Plum_Blossom"
+path = "Plum_Blossom.jpg"
+
+[[wallpapers]]
+title.default = "Willow Curtain"
+title.zh-CN = "柳帘"
+license = "CC BY-SA 4.0"
+id = "Willow_Curtain"
+path = "Willow_Curtain.jpg"

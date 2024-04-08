@@ -1,0 +1,10 @@
+[[authors]]
+email = "robinluaa@outlook.com"
+name.default = "Robin Lu"
+
+[[wallpapers]]
+title.default = "Pudong Airport"
+title.zh-CN = "浦东机场"
+license = "CC BY-NC 4.0"
+id = "Pudong_Airport"
+path = "Pudong_Airport.jpg"

@@ -1,0 +1,31 @@
+[[authors]]
+email = "dev@crh380d.de"
+name.default = "Maria Bombadier"
+
+[[wallpapers]]
+title.default = "Mai Island"
+title.zh-CN = "麦岛"
+license = "CC0"
+id = "Mai_Island"
+path = "Mai_Island.jpg"
+
+[[wallpapers]]
+title.default = "Mount Lao"
+title.zh-CN = "崂山近景"
+license = "CC0"
+id = "Mount_Lao"
+path = "Mount_Lao.jpg"
+
+[[wallpapers]]
+title.default = "Watching You"
+title.zh-CN = "就看着你"
+license = "CC0"
+id = "Watching_You"
+path = "Watching_You.jpg"
+
+[[wallpapers]]
+title.default = "Yellow Sea Vision"
+title.zh-CN = "黄海仙境"
+license = "CC0"
+id = "Yellow_Sea_Vision"
+path = "Yellow_Sea_Vision.jpg"

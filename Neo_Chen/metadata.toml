@@ -1,0 +1,31 @@
+[[authors]]
+email = "chenkolei@gmail.com"
+name.default = "Neo_Chen"
+
+[[wallpapers]]
+title.default = "Radio 1"
+title.zh-CN = "无线电之旅 1"
+license = "WTFPL"
+id = "Radio_-_1"
+path = "Radio_-_1.jpg"
+
+[[wallpapers]]
+title.default = "Radio 2"
+title.zh-CN = "无线电之旅 2"
+license = "WTFPL"
+id = "Radio_-_2"
+path = "Radio_-_2.jpg"
+
+[[wallpapers]]
+title.default = "Radio 3"
+title.zh-CN = "无线电之旅 3"
+license = "WTFPL"
+id = "Radio_-_3"
+path = "Radio_-_3.jpg"
+
+[[wallpapers]]
+title.default = "Radio 4"
+title.zh-CN = "无线电之旅 4"
+license = "WTFPL"
+id = "Radio_-_4"
+path = "Radio_-_4.jpg"

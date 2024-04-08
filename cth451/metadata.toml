@@ -71,3 +71,199 @@ title.zh-CN = "无止山岭"
 license = "CC BY-NC 4.0"
 id = "View_from_Moore's_Knob"
 path = "View_from_Moore's_Knob.jpg"
+
+[[wallpapers]]
+title.default = "Art and Science"
+title.zh-CN = "艺术科学博物馆"
+license = "CC BY-NC 4.0"
+id = "Art_and_Science"
+path = "Art_and_Science.jpg"
+
+[[wallpapers]]
+title.default = "Big Steps"
+title.zh-CN = "更上一层楼"
+license = "CC BY-NC 4.0"
+id = "Big_Steps"
+path = "Big_Steps.jpg"
+
+[[wallpapers]]
+title.default = "Cloud Forest"
+title.zh-CN = "云雾林"
+license = "CC BY-NC 4.0"
+id = "Cloud_Forest"
+path = "Cloud_Forest.jpg"
+
+[[wallpapers]]
+title.default = "Edo Ministry"
+title.zh-CN = "五稜郭一隅"
+license = "CC BY-NC 4.0"
+id = "Edo_Ministry"
+path = "Edo_Ministry.jpg"
+
+[[wallpapers]]
+title.default = "Esplanade"
+title.zh-CN = "滨海大道"
+license = "CC BY-NC 4.0"
+id = "Esplanade"
+path = "Esplanade.jpg"
+
+[[wallpapers]]
+title.default = "Fern"
+title.zh-CN = "苔藓"
+license = "CC BY-NC 4.0"
+id = "Fern"
+path = "Fern.jpg"
+
+[[wallpapers]]
+title.default = "Fireworks"
+title.zh-CN = "烟火"
+license = "CC BY-NC 4.0"
+id = "Fireworks"
+path = "Fireworks.jpg"
+
+[[wallpapers]]
+title.default = "Hoodie"
+title.zh-CN = "小胡"
+license = "CC BY-NC 4.0"
+id = "Hoodie"
+path = "Hoodie.jpg"
+
+[[wallpapers]]
+title.default = "Kamakura Cherry"
+title.zh-CN = "镰仓之樱"
+license = "CC BY-NC 4.0"
+id = "Kamakura_Cherry"
+path = "Kamakura_Cherry.jpg"
+
+[[wallpapers]]
+title.default = "Karry"
+title.zh-CN = "大爷"
+license = "CC BY-NC 4.0"
+id = "Karry"
+path = "Karry.jpg"
+
+[[wallpapers]]
+title.default = "Land Boulevard at Longfellow Bridge"
+title.zh-CN = "朗费罗大桥"
+license = "CC BY-NC 4.0"
+id = "Land_Boulevard_at_Longfellow_Bridge"
+path = "Land_Boulevard_at_Longfellow_Bridge.jpg"
+
+[[wallpapers]]
+title.default = "Lanterns"
+title.zh-CN = "祈福灯笼"
+license = "CC BY-NC 4.0"
+id = "Lanterns"
+path = "Lanterns.jpg"
+
+[[wallpapers]]
+title.default = "Luray in Ray"
+title.zh-CN = "卢雷日和"
+license = "CC BY-NC 4.0"
+id = "Luray_in_Ray"
+path = "Luray_in_Ray.jpg"
+
+[[wallpapers]]
+title.default = "Mt. Oberlin"
+title.zh-CN = "奥伯林山"
+license = "CC BY-NC 4.0"
+id = "Mt._Oberlin"
+path = "Mt._Oberlin.jpg"
+
+[[wallpapers]]
+title.default = "O-dori Station"
+title.zh-CN = "大通站"
+license = "CC BY-NC 4.0"
+id = "O-dori_Sta"
+path = "O-dori_Sta.jpg"
+
+[[wallpapers]]
+title.default = "Oat Grass"
+title.zh-CN = "燕麦草"
+license = "CC BY-NC 4.0"
+id = "Oat_Grass"
+path = "Oat_Grass.jpg"
+
+[[wallpapers]]
+title.default = "Presque Isle Beach 11"
+title.zh-CN = "普雷斯克艾尔 11 号海滩"
+license = "CC BY-NC 4.0"
+id = "Presque_Isle_Beach_11"
+path = "Presque_Isle_Beach_11.jpg"
+
+[[wallpapers]]
+title.default = "Presque Isle Light"
+title.zh-CN = "普雷斯克艾尔灯塔"
+license = "CC BY-NC 4.0"
+id = "Presque_Isle_Light"
+path = "Presque_Isle_Light.jpg"
+
+[[wallpapers]]
+title.default = "Route 20"
+title.zh-CN = "20 号国道"
+license = "CC BY-NC 4.0"
+id = "Route_20"
+path = "Route_20.jpg"
+
+[[wallpapers]]
+title.default = "South Vaulted Walkway"
+title.zh-CN = "费城博物馆"
+license = "CC BY-NC 4.0"
+id = "South_Vaulted_Walkway"
+path = "South_Vaulted_Walkway.jpg"
+
+[[wallpapers]]
+title.default = "St. Mary Lake"
+title.zh-CN = "圣玛丽湖"
+license = "CC BY-NC 4.0"
+id = "St._Mary_Lake"
+path = "St._Mary_Lake.jpg"
+
+[[wallpapers]]
+title.default = "Strafford Station"
+title.zh-CN = "斯特拉福德站"
+license = "CC BY-NC 4.0"
+id = "Strafford_Station"
+path = "Strafford_Station.jpg"
+
+[[wallpapers]]
+title.default = "Take a Peek"
+title.zh-CN = "窗畔远望"
+license = "CC BY-NC 4.0"
+id = "Take_a_Peek"
+path = "Take_a_Peek.jpg"
+
+[[wallpapers]]
+title.default = "The Gardiner"
+title.zh-CN = "加德纳高速"
+license = "CC BY-NC 4.0"
+id = "The_Gardiner"
+path = "The_Gardiner.jpg"
+
+[[wallpapers]]
+title.default = "Theatres on the Bay"
+title.zh-CN = "滨海艺术中心"
+license = "CC BY-NC 4.0"
+id = "Theatres_on_the_Bay"
+path = "Theatres_on_the_Bay.jpg"
+
+[[wallpapers]]
+title.default = "Traffic Lights"
+title.zh-CN = "人行横道"
+license = "CC BY-NC 4.0"
+id = "Traffic_Lights"
+path = "Traffic_Lights.jpg"
+
+[[wallpapers]]
+title.default = "Train to Malvern"
+title.zh-CN = "列车"
+license = "CC BY-NC 4.0"
+id = "Train_to_Malvern"
+path = "Train_to_Malvern.jpg"
+
+[[wallpapers]]
+title.default = "Union"
+title.zh-CN = "纪念堂"
+license = "CC BY-NC 4.0"
+id = "Union"
+path = "Union.jpg"

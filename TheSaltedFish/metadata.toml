@@ -1,0 +1,46 @@
+[[authors]]
+email = "the@salted.fish"
+name.default = "TheSaltedFish"
+name.zh-CN = "咸鱼"
+
+[[wallpapers]]
+title.default = "All is Well"
+title.zh-CN = "一切皆好"
+license = "CC BY-NC-SA 4.0"
+id = "All_is_Well"
+path = "All_is_Well.jpg"
+
+[[wallpapers]]
+title.default = "Barren Solstice"
+title.zh-CN = "不知夏"
+license = "CC BY-NC-SA 4.0"
+id = "Barren_Solstice"
+path = "Barren_Solstice.jpg"
+
+[[wallpapers]]
+title.default = "Nixie 114514"
+title.zh-CN = "辉光 114514"
+license = "CC BY-NC-SA 4.0"
+id = "Nixie_114514"
+path = "Nixie_114514.jpg"
+
+[[wallpapers]]
+title.default = "Rainbow Tree"
+title.zh-CN = "彩虹树"
+license = "CC BY-NC-SA 4.0"
+id = "Rainbow_Tree"
+path = "Rainbow_Tree.jpg"
+
+[[wallpapers]]
+title.default = "Sonne"
+title.zh-CN = "赞美太阳"
+license = "CC BY-NC-SA 4.0"
+id = "Sonne"
+path = "Sonne.jpg"
+
+[[wallpapers]]
+title.default = "Viridescent Tango"
+title.zh-CN = "绿"
+license = "CC BY-NC-SA 4.0"
+id = "Viridescent_Tango"
+path = "Viridescent_Tango.jpg"
