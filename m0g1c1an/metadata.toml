@@ -3,39 +3,11 @@ email = "m0g1c1anyang@gmail.com"
 name.default = "m0g1c1an"
 
 [[wallpapers]]
-title.default = "Congregation Mickve Israel"
-title.zh-CN = "米克维以色列会堂"
-license = "CC BY-NC 4.0"
-id = "Congregation_Mickve_Israel"
-path = "Congregation_Mickve_Israel.jpg"
-
-[[wallpapers]]
-title.default = "Flashback from San Francisco"
-title.zh-CN = "旧金山剪影"
-license = "CC BY-NC 4.0"
-id = "Flashback_from_San_Francisco"
-path = "Flashback_from_San_Francisco.jpg"
-
-[[wallpapers]]
 title.default = "Lone Wild"
 title.zh-CN = "孤勇"
 license = "CC BY-NC 4.0"
 id = "Lone_Wild"
 path = "Lone_Wild.jpg"
-
-[[wallpapers]]
-title.default = "St. Brigid's Parish"
-title.zh-CN = "教堂钟塔"
-license = "CC BY-NC 4.0"
-id = "St._Brigids_Parish"
-path = "St._Brigids_Parish.jpg"
-
-[[wallpapers]]
-title.default = "Summer UMass"
-title.zh-CN = "麻省夏日"
-license = "CC BY-NC 4.0"
-id = "Summer_UMass"
-path = "Summer_UMass.jpg"
 
 [[wallpapers]]
 title.default = "Artist's Bluff Lookout"
