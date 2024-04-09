@@ -1,0 +1,10 @@
+[[authors]]
+email = "ohayou@lz233.ac.cn"
+name.default = "lz233"
+
+[[wallpapers]]
+title.default = "Pathway of Reflections"
+title.zh-CN = "倒影之路"
+license = "Unsplash License"
+id = "Pathway_of_Reflections"
+path = "Pathway_of_Reflections.jpg"

@@ -1,0 +1,11 @@
+[[authors]]
+email = "1@233.email"
+name.default = "a-wing"
+name.zh-CN = "新一"
+
+[[wallpapers]]
+title.default = "Yulong"
+title.zh-CN = "玉龙雪山"
+license = "CC BY-NC 4.0"
+id = "Yulong"
+path = "Yulong.jpg"

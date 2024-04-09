@@ -37,3 +37,10 @@ title.zh-CN = "夏末"
 license = "CC BY-NC 4.0"
 id = "Кончится_лето"
 path = "Кончится_лето.jpg"
+
+[[wallpapers]]
+title.default = "Brisk"
+title.zh-CN = "爽秋"
+license = "CC BY-NC 4.0"
+id = "Brisk"
+path = "Brisk.jpg"

@@ -1,6 +1,6 @@
 [[authors]]
 email = "m0g1c1anyang@gmail.com"
-name.default = "m0g1c1an"
+name.default = "Mogician Yang"
 
 [[wallpapers]]
 title.default = "Lone Wild"
@@ -36,3 +36,24 @@ title.zh-CN = "此是通幽处"
 license = "CC BY 4.0"
 id = "Stair_Exit"
 path = "Stair_Exit.jpg"
+
+[[wallpapers]]
+title.default = "Fly Low"
+title.zh-CN = "向天"
+license = "CC BY-NC"
+id = "Fly_Low"
+path = "Fly_Low.jpg"
+
+[[wallpapers]]
+title.default = "Mountain Range II"
+title.zh-CN = "地之脊 II"
+license = "CC BY-NC"
+id = "Mountain_Range_II"
+path = "Mountain_Range_II.jpg"
+
+[[wallpapers]]
+title.default = "Patches II"
+title.zh-CN = "拼图 II"
+license = "CC BY-NC"
+id = "Patches_II"
+path = "Patches_II.jpg"

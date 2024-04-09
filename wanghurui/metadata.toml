@@ -1,0 +1,18 @@
+[[authors]]
+email = "admin@whrblog.online"
+name.default = "wanghurui"
+name.zh-CN = "椰椰雪球"
+
+[[wallpapers]]
+title.default = "The Desert"
+title.zh-CN = "沙漠远眺"
+license = "CC BY-NC"
+id = "The_Desert"
+path = "The_Desert.jpg"
+
+[[wallpapers]]
+title.default = "Skylight"
+title.zh-CN = "乌云过后"
+license = "CC BY-NC"
+id = "Skylight"
+path = "Skylight.jpg"

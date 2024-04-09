@@ -1,0 +1,10 @@
+[[authors]]
+email = "i@axionl.me"
+name.default = "Ariel AxionL"
+
+[[wallpapers]]
+title.default = "Geometric Dusk"
+title.zh-CN = "斜阳几何"
+license = "CC BY-NC"
+id = "Geometric_Dusk"
+path = "Geometric_Dusk.jpg"
