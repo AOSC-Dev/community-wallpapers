@@ -1,0 +1,66 @@
+[[authors]]
+email = "ohayou@lz233.ac.cn"
+name.default = "lz233"
+
+[[wallpapers]]
+title.default = "Antenna Sentinel"
+title.zh-CN = "天线卫士"
+license = "Unsplash License"
+id = "Antenna_Sentinel"
+path = "Antenna_Sentinel.jpg"
+
+[[wallpapers]]
+title.default = "Blue Hydrangea Cluster"
+title.zh-CN = "蓝色绣球"
+license = "Unsplash License"
+id = "Blue_Hydrangea_Cluster"
+path = "Blue_Hydrangea_Cluster.jpg"
+
+[[wallpapers]]
+title.default = "Cable Car and Seascape"
+title.zh-CN = "缆车与海景"
+license = "Unsplash License"
+id = "Cable_Car_and_Seascape"
+path = "Cable_Car_and_Seascape.jpg"
+
+[[wallpapers]]
+title.default = "Eye of Nanjing"
+title.zh-CN = "南京眼"
+license = "Unsplash License"
+id = "Eye_of_Nanjing"
+path = "Eye_of_Nanjing.jpg"
+
+[[wallpapers]]
+title.default = "Interwoven Lines"
+title.zh-CN = "线条交织"
+license = "Unsplash License"
+id = "Interwoven_Lines"
+path = "Interwoven_Lines.jpg"
+
+[[wallpapers]]
+title.default = "Mirrors of the Blue Sky"
+title.zh-CN = "蓝天之镜"
+license = "Unsplash License"
+id = "Mirrors_of_the_Blue_Sky"
+path = "Mirrors_of_the_Blue_Sky.jpg"
+
+[[wallpapers]]
+title.default = "Seaway Trajectories"
+title.zh-CN = "海上轨迹"
+license = "Unsplash License"
+id = "Seaway_Trajectories"
+path = "Seaway_Trajectories.jpg"
+
+[[wallpapers]]
+title.default = "Skyline"
+title.zh-CN = "天际绿洲"
+license = "Unsplash License"
+id = "Skyline"
+path = "Skyline.jpg"
+
+[[wallpapers]]
+title.default = "Solo Voyage in Blue"
+title.zh-CN = "蓝天独航"
+license = "Unsplash License"
+id = "Solo_Voyage_in_Blue"
+path = "Solo_Voyage_in_Blue.jpg"

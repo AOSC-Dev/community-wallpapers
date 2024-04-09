@@ -1,0 +1,31 @@
+[[authors]]
+email = "alynx.zhou@gmail.com"
+name.default = "Alynx Zhou"
+
+[[wallpapers]]
+title.default = "Galaxy"
+title.zh-CN = "群星的尽头"
+license = "CC BY-NC"
+id = "Galaxy"
+path = "Galaxy.jpg"
+
+[[wallpapers]]
+title.default = "Mop the Cat"
+title.zh-CN = "拖把"
+license = "CC BY-NC"
+id = "Mop_the_Cat"
+path = "Mop_the_Cat.jpg"
+
+[[wallpapers]]
+title.default = "Lonely Moon"
+title.zh-CN = "照无眠"
+license = "CC BY-NC"
+id = "Lonely_Moon"
+path = "Lonely_Moon.jpg"
+
+[[wallpapers]]
+title.default = "Fly Me Over the Moon"
+title.zh-CN = "飞向月球"
+license = "CC BY-NC"
+id = "Fly_Me_Over_the_Moon"
+path = "Fly_Me_Over_the_Moon.jpg"

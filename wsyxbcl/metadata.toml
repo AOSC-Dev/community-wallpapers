@@ -1,0 +1,10 @@
+[[authors]]
+email = "wsyxbcl@gmail.com"
+name.default = "wsyxbcl"
+
+[[wallpapers]]
+title.default = "Spring"
+title.zh-CN = "初春"
+license = "CC BY-NC"
+id = "Spring"
+path = "Spring.jpg"

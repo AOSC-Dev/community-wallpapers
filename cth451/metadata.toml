@@ -1,0 +1,73 @@
+[[authors]]
+email = "cth451@gmail.com"
+name.default = "cth451"
+
+[[wallpapers]]
+title.default = "Camping"
+title.zh-CN = "露营"
+license = "CC BY-NC 4.0"
+id = "Camping"
+path = "Camping.jpg"
+
+[[wallpapers]]
+title.default = "Fall Color in the Creek"
+title.zh-CN = "溪中秋色"
+license = "CC BY-NC 4.0"
+id = "Fall_Color_in_the_Creek"
+path = "Fall_Color_in_the_Creek.jpg"
+
+[[wallpapers]]
+title.default = "Fallen Tree"
+title.zh-CN = "近水枯树"
+license = "CC BY-NC 4.0"
+id = "Fallen_Tree"
+path = "Fallen_Tree.jpg"
+
+[[wallpapers]]
+title.default = "Getting Some Fries at the Pier"
+title.zh-CN = "整点薯条"
+license = "CC BY-NC 4.0"
+id = "Getting_Some_Fries_at_the_Pier"
+path = "Getting_Some_Fries_at_the_Pier.jpg"
+
+[[wallpapers]]
+title.default = "Manhattan Skyline"
+title.zh-CN = "曼哈顿天际线"
+license = "CC BY-NC 4.0"
+id = "Manhattan_Skyline"
+path = "Manhattan_Skyline.jpg"
+
+[[wallpapers]]
+title.default = "Oregon Inlet Lifeboat Station"
+title.zh-CN = "近海"
+license = "CC BY-NC 4.0"
+id = "Oregon_Inlet_Lifeboat_Station"
+path = "Oregon_Inlet_Lifeboat_Station.jpg"
+
+[[wallpapers]]
+title.default = "Slumber on the ERT"
+title.zh-CN = "河边爆睡"
+license = "CC BY-NC 4.0"
+id = "Slumber_on_the_ERT"
+path = "Slumber_on_the_ERT.jpg"
+
+[[wallpapers]]
+title.default = "Smol Pumpkin"
+title.zh-CN = "迷你南瓜"
+license = "CC BY-NC 4.0"
+id = "Smol_Pumpkin"
+path = "Smol_Pumpkin.jpg"
+
+[[wallpapers]]
+title.default = "Tapestry"
+title.zh-CN = "彩布纵横"
+license = "CC BY-NC 4.0"
+id = "Tapestry"
+path = "Tapestry.jpg"
+
+[[wallpapers]]
+title.default = "US-411 from Morton Overlook"
+title.zh-CN = "林间公路"
+license = "CC BY-NC 4.0"
+id = "US_411_from_Morton_Overlook"
+path = "US_411_from_Morton_Overlook.jpg"

@@ -1,0 +1,31 @@
+[[authors]]
+email = "hxstarrys@gmail.com"
+name.default = "STARRY-S"
+
+[[wallpapers]]
+title.default = "Autumn Leaves"
+title.zh-CN = "秋叶"
+license = "CC BY-NC"
+id = "Autumn_Leaves"
+path = "Autumn_Leaves.jpg"
+
+[[wallpapers]]
+title.default = "Rose Bush"
+title.zh-CN = "红蔷薇"
+license = "CC BY-NC"
+id = "Rose_Bush"
+path = "Rose_Bush.jpg"
+
+[[wallpapers]]
+title.default = "Shady Forest"
+title.zh-CN = "寂静的树林"
+license = "CC BY-NC"
+id = "Shady_Forest"
+path = "Shady_Forest.jpg"
+
+[[wallpapers]]
+title.default = "Vivid"
+title.zh-CN = "鲜艳"
+license = "CC BY-NC"
+id = "Vivid"
+path = "Vivid.jpg"

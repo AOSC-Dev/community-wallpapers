@@ -1,0 +1,200 @@
+[[authors]]
+email = "jeffbai@aosc.io"
+name.default = "Mingcong Bai"
+name.zh-CN = "白铭骢"
+
+[[wallpapers]]
+title.default = "Adore"
+title.zh-CN = "仰慕"
+license = "CC BY-NC 4.0"
+id = "Adore"
+path = "Adore.jpg"
+
+[[wallpapers]]
+title.default = "Afterglow"
+title.zh-CN = "星霞"
+license = "CC BY-NC 4.0"
+id = "Afterglow"
+path = "Afterglow.jpg"
+
+[[wallpapers]]
+title.default = "Beams"
+title.zh-CN = "栋梁"
+license = "CC BY-NC 4.0"
+id = "Beams"
+path = "Beams.jpg"
+
+[[wallpapers]]
+title.default = "Bridge Across"
+title.zh-CN = "飞跨"
+license = "CC BY-NC 4.0"
+id = "Bridge_Across"
+path = "Bridge_Across.jpg"
+
+[[wallpapers]]
+title.default = "Calmly It Flows"
+title.zh-CN = "静夜长江"
+license = "CC BY-NC 4.0"
+id = "Calmly_It_Flows"
+path = "Calmly_It_Flows.jpg"
+
+[[wallpapers]]
+title.default = "Canvases"
+title.zh-CN = "绘阁"
+license = "CC BY-NC 4.0"
+id = "Canvases"
+path = "Canvases.jpg"
+
+[[wallpapers]]
+title.default = "Coming Through"
+title.zh-CN = "芋荷"
+license = "CC BY-NC 4.0"
+id = "Coming_Through"
+path = "Coming_Through.jpg"
+
+[[wallpapers]]
+title.default = "Daisy"
+title.zh-CN = "艳菊"
+license = "CC BY-NC 4.0"
+id = "Daisy"
+path = "Daisy.jpg"
+
+[[wallpapers]]
+title.default = "Delights"
+title.zh-CN = "甜夏"
+license = "CC BY-NC 4.0"
+id = "Delights"
+path = "Delights.jpg"
+
+[[wallpapers]]
+title.default = "Dimensions"
+title.zh-CN = "层叠"
+license = "CC BY-NC 4.0"
+id = "Dimensions"
+path = "Dimensions.jpg"
+
+[[wallpapers]]
+title.default = "Fumbling"
+title.zh-CN = "寻觅"
+license = "CC BY-NC 4.0"
+id = "Fumbling"
+path = "Fumbling.jpg"
+
+[[wallpapers]]
+title.default = "Garden Stroll"
+title.zh-CN = "书院漫步"
+license = "CC BY-NC 4.0"
+id = "Garden_Stroll"
+path = "Garden_Stroll.jpg"
+
+[[wallpapers]]
+title.default = "Homeward Bound"
+title.zh-CN = "归家"
+license = "CC BY-NC 4.0"
+id = "Homeward_Bound"
+path = "Homeward_Bound.jpg"
+
+[[wallpapers]]
+title.default = "Hugs"
+title.zh-CN = "簇拥"
+license = "CC BY-NC 4.0"
+id = "Hugs"
+path = "Hugs.jpg"
+
+[[wallpapers]]
+title.default = "Leisure"
+title.zh-CN = "闲夜"
+license = "CC BY-NC 4.0"
+id = "Leisure"
+path = "Leisure.jpg"
+
+[[wallpapers]]
+title.default = "Lure"
+title.zh-CN = "招徕"
+license = "CC BY-NC 4.0"
+id = "Lure"
+path = "Lure.jpg"
+
+[[wallpapers]]
+title.default = "Luscious"
+title.zh-CN = "繁茂"
+license = "CC BY-NC 4.0"
+id = "Luscious"
+path = "Luscious.jpg"
+
+[[wallpapers]]
+title.default = "Metropolitan Retreat"
+title.zh-CN = "家园"
+license = "CC BY-NC 4.0"
+id = "Metropolitan_Retreat"
+path = "Metropolitan_Retreat.jpg"
+
+[[wallpapers]]
+title.default = "Midsummer Shade"
+title.zh-CN = "夏荫"
+license = "CC BY-NC 4.0"
+id = "Midsummer_Shade"
+path = "Midsummer_Shade.jpg"
+
+[[wallpapers]]
+title.default = "Motion"
+title.zh-CN = "舞虹"
+license = "CC BY-NC 4.0"
+id = "Motion"
+path = "Motion.jpg"
+
+[[wallpapers]]
+title.default = "Once Upon a Home"
+title.zh-CN = "咫尺"
+license = "CC BY-NC 4.0"
+id = "Once_Upon_a_Home"
+path = "Once_Upon_a_Home.jpg"
+
+[[wallpapers]]
+title.default = "Pagoda"
+title.zh-CN = "黄鹤楼"
+license = "CC BY-NC 4.0"
+id = "Pagoda"
+path = "Pagoda.jpg"
+
+[[wallpapers]]
+title.default = "Rays"
+title.zh-CN = "锋芒"
+license = "CC BY-NC 4.0"
+id = "Rays"
+path = "Rays.jpg"
+
+[[wallpapers]]
+title.default = "Sincerity"
+title.zh-CN = "乖巧"
+license = "CC BY-NC 4.0"
+id = "Sincerity"
+path = "Sincerity.jpg"
+
+[[wallpapers]]
+title.default = "Skyward Melody"
+title.zh-CN = "云霄小曲"
+license = "CC BY-NC 4.0"
+id = "Skyward_Melody"
+path = "Skyward_Melody.jpg"
+
+[[wallpapers]]
+title.default = "Sneak Peek"
+title.zh-CN = "丛间远眺"
+license = "CC BY-NC 4.0"
+id = "Sneak_Peek"
+path = "Sneak_Peek.jpg"
+
+[[wallpapers]]
+title.default = "Sunset Upon the Mountain City"
+title.zh-CN = "山城日暮"
+license = "CC BY-NC 4.0"
+id = "Sunset_Upon_the_Mountain_City"
+path = "Sunset_Upon_the_Mountain_City.jpg"
+
+[[wallpapers]]
+title.default = "Tufts"
+title.zh-CN = "翠苑楼阁"
+license = "CC BY-NC 4.0"
+id = "Tufts"
+path = "Tufts.jpg"

@@ -1,0 +1,10 @@
+[[authors]]
+email = "mmyangfl@gmail.com"
+name.default = "David Yang"
+
+[[wallpapers]]
+title.default = "Cat's Paw"
+title.zh-CN = "猫爪"
+license = "CC0"
+id = "Cats_Paw"
+path = "Cats_Paw.jpg"

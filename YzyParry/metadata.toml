@@ -1,0 +1,17 @@
+[[authors]]
+email = "yangziyue1224@live.com"
+name.default = "YzyParry"
+
+[[wallpapers]]
+title.default = "Lamp & Shade"
+title.zh-CN = "台灯和百叶窗"
+license = "CC BY-NC"
+id = "Lamp_and_Shade"
+path = "Lamp_and_Shade.jpg"
+
+[[wallpapers]]
+title.default = "Victoria Harbour"
+title.zh-CN = "维多利亚港"
+license = "CC BY-NC"
+id = "Victoria_Harbour"
+path = "Victoria_Harbour.jpg"

@@ -1,0 +1,38 @@
+[[authors]]
+email = "canarypwn@aosc.io"
+name.default = "Alex Qin"
+
+[[wallpapers]]
+title.default = "Windmill"
+title.zh-CN = "大风车"
+license = "CC BY-NC"
+id = "Windmill"
+path = "Windmill.jpg"
+
+[[wallpapers]]
+title.default = "Servers"
+title.zh-CN = "机柜"
+license = "CC BY-NC"
+id = "Servers"
+path = "Servers.jpg"
+
+[[wallpapers]]
+title.default = "Pingtan"
+title.zh-CN = "平潭"
+license = "CC BY-NC"
+id = "Pingtan"
+path = "Pingtan.jpg"
+
+[[wallpapers]]
+title.default = "Roof I"
+title.zh-CN = "屋檐 I"
+license = "CC BY-NC"
+id = "Roof_I"
+path = "Roof_I.jpg"
+
+[[wallpapers]]
+title.default = "Roof II"
+title.zh-CN = "屋檐 II"
+license = "CC BY-NC"
+id = "Roof_I"
+path = "Roof_I.jpg"

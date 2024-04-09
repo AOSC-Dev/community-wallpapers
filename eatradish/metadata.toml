@@ -1,0 +1,25 @@
+[[authors]]
+email = "sakiiily@aosc.io"
+name.default = "Mag Mell"
+name.zh-CN = "宇宙眼镜人"
+
+[[wallpapers]]
+title.default = "Autumn's Prelude"
+title.zh-CN = "日暮，那所有金色的梦"
+license = "CC BY"
+id = "Autumns_Prelude"
+path = "Autumns_Prelude.jpg"
+
+[[wallpapers]]
+title.default = "Blue Skies Ahead"
+title.zh-CN = "我相信，会再次看到蓝天"
+license = "CC BY"
+id = "Blue_Skies_Ahead"
+path = "Blue_Skies_Ahead.jpg"
+
+[[wallpapers]]
+title.default = "Mirror of the Stars"
+title.zh-CN = "星星的镜子"
+license = "CC BY"
+id = "Mirror_of_the_Stars"
+path = "Mirror_of_the_Stars.jpg"

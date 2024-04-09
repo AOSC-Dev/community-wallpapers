@@ -1,0 +1,116 @@
+[[authors]]
+email = "reivzy@gmail.com"
+name.default = "Yu Changyuan"
+name.zh-CN = "喻昌远"
+
+[[wallpapers]]
+title.default = "Balloons I"
+title.zh-CN = "热气球 I"
+license = "CC BY-NC-SA 4.0"
+id = "Balloons_I"
+path = "Balloons_I.jpg"
+
+[[wallpapers]]
+title.default = "Balloons II"
+title.zh-CN = "热气球 II"
+license = "CC BY-NC-SA 4.0"
+id = "Balloons_II"
+path = "Balloons_II.jpg"
+
+[[wallpapers]]
+title.default = "Bazaar I"
+title.zh-CN = "大巴扎 I"
+license = "CC BY-NC-SA 4.0"
+id = "Bazaar_I"
+path = "Bazaar_I.jpg"
+
+[[wallpapers]]
+title.default = "Bazaar II"
+title.zh-CN = "大巴扎 II"
+license = "CC BY-NC-SA 4.0"
+id = "Bazaar_II"
+path = "Bazaar_II.jpg"
+
+[[wallpapers]]
+title.default = "Bazaar III"
+title.zh-CN = "大巴扎 III"
+license = "CC BY-NC-SA 4.0"
+id = "Bazaar_III"
+path = "Bazaar_III.jpg"
+
+[[wallpapers]]
+title.default = "Göreme I"
+title.zh-CN = "格雷梅小镇 I"
+license = "CC BY-NC-SA 4.0"
+id = "Göreme_I"
+path = "Göreme_I.jpg"
+
+[[wallpapers]]
+title.default = "Göreme II"
+title.zh-CN = "格雷梅小镇 II"
+license = "CC BY-NC-SA 4.0"
+id = "Göreme_II"
+path = "Göreme_II.jpg"
+
+[[wallpapers]]
+title.default = "Göreme III"
+title.zh-CN = "格雷梅小镇 III"
+license = "CC BY-NC-SA 4.0"
+id = "Göreme_III"
+path = "Göreme_III.jpg"
+
+[[wallpapers]]
+title.default = "Jingan I"
+title.zh-CN = "静安 I"
+license = "CC BY-NC-SA 4.0"
+id = "Jingan_I"
+path = "Jingan_I.jpg"
+
+[[wallpapers]]
+title.default = "Jingan II"
+title.zh-CN = "静安 II"
+license = "CC BY-NC-SA 4.0"
+id = "Jingan_II"
+path = "Jingan_II.jpg"
+
+[[wallpapers]]
+title.default = "Jingan III"
+title.zh-CN = "静安 III"
+license = "CC BY-NC-SA 4.0"
+id = "Jingan_III"
+path = "Jingan_I.jpg"
+
+[[wallpapers]]
+title.default = "Mount Fuji II"
+title.zh-CN = "富士山 II"
+license = "CC BY-NC-SA 4.0"
+id = "Mount_Fuji_II"
+path = "Mount_Fuji_II.jpg"
+
+[[wallpapers]]
+title.default = "Nanpu Bridge"
+title.zh-CN = "南浦大桥"
+license = "CC BY-NC-SA 4.0"
+id = "Nanpu_Bridge"
+path = "Nanpu_Bridge.jpg"
+
+[[wallpapers]]
+title.default = "Rapeseed Field II"
+title.zh-CN = "油菜花田 II"
+license = "CC BY-NC-SA 4.0"
+id = "Rapeseed_Field_II"
+path = "Rapeseed_Field_II.jpg"
+
+[[wallpapers]]
+title.default = "Sultanahmet_Camii"
+title.zh-CN = "蓝色清真寺"
+license = "CC BY-NC-SA 4.0"
+id = "Sultanahmet_Camii"
+path = "Sultanahmet_Camii.jpg"
+
+[[wallpapers]]
+title.default = "The Bund"
+title.zh-CN = "外滩"
+license = "CC BY-NC-SA 4.0"
+id = "The_Bund"
+path = "The_Bund.jpg"

@@ -1,0 +1,31 @@
+[[authors]]
+email = "m0g1c1anyang@gmail.com"
+name.default = "Mogician Yang"
+
+[[wallpapers]]
+title.default = "Mountain Range I"
+title.zh-CN = "地之脊 I"
+license = "CC BY-NC"
+id = "Mountain_Range_I"
+path = "Mountain_Range_I.jpg"
+
+[[wallpapers]]
+title.default = "New Frontier I"
+title.zh-CN = "西域 I"
+license = "CC BY-NC"
+id = "New_Frontier_I"
+path = "New_Frontier_I.jpg"
+
+[[wallpapers]]
+title.default = "New Frontier II"
+title.zh-CN = "西域 II"
+license = "CC BY-NC"
+id = "New_Frontier_II"
+path = "New_Frontier_II.jpg"
+
+[[wallpapers]]
+title.default = "Patches I"
+title.zh-CN = "拼图 I"
+license = "CC BY-NC"
+id = "Patches_I"
+path = "Patches_I.jpg"

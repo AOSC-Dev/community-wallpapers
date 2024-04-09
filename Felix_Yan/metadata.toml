@@ -1,0 +1,17 @@
+[[authors]]
+email = "felixonmars@archlinux.org"
+name.default = "Felix Yan"
+
+[[wallpapers]]
+title.default = "Their Prosperity I"
+title.zh-CN = "隔岸灯火 I"
+license = "CC BY"
+id = "Their_Prosperity_I"
+path = "Their_Prosperity_I.jpg"
+
+[[wallpapers]]
+title.default = "Their Prosperity II"
+title.zh-CN = "隔岸灯火 II"
+license = "CC BY"
+id = "Their_Prosperity_II"
+path = "Their_Prosperity_II.jpg"

@@ -1,0 +1,53 @@
+[[authors]]
+email = "the@salted.fish"
+name.default = "TheSaltedFish"
+name.zh-CN = "咸鱼"
+
+[[wallpapers]]
+title.default = "American Lady"
+title.zh-CN = "北美红蛱蝶"
+license = "CC BY-NC-SA 4.0"
+id = "American_Lady"
+path = "American_Lady.jpg"
+
+[[wallpapers]]
+title.default = "Bodie Island Lighthouse"
+title.zh-CN = "波迪岛灯塔"
+license = "CC BY-NC-SA 4.0"
+id = "Bodie_Island_Lighthouse"
+path = "Bodie_Island_Lighthouse.jpg"
+
+[[wallpapers]]
+title.default = "Connections"
+title.zh-CN = "电线杆子"
+license = "CC BY-NC-SA 4.0"
+id = "Connections"
+path = "Connections.jpg"
+
+[[wallpapers]]
+title.default = "Corridor"
+title.zh-CN = "廊道"
+license = "CC BY-NC-SA 4.0"
+id = "Corridor"
+path = "Corridor.jpg"
+
+[[wallpapers]]
+title.default = "Reflections"
+title.zh-CN = "倒影"
+license = "CC BY-NC-SA 4.0"
+id = "Reflections"
+path = "Reflections.jpg"
+
+[[wallpapers]]
+title.default = "Sunset"
+title.zh-CN = "日暮"
+license = "CC BY-NC-SA 4.0"
+id = "Sunset"
+path = "Sunset.jpg"
+
+[[wallpapers]]
+title.default = "Withered"
+title.zh-CN = "干涸"
+license = "CC BY-NC-SA 4.0"
+id = "Withered"
+path = "Withered.jpg"

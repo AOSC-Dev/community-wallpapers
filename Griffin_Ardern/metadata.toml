@@ -1,0 +1,31 @@
+[[authors]]
+email = "adenzhang1994@outlook.com"
+name.default = "Griffin Ardern"
+
+[[wallpapers]]
+title.default = "Holiday I"
+title.zh-CN = "假日时光 I"
+license = "CC BY-NC"
+id = "Holiday_I"
+path = "Holiday_I.jpg"
+
+[[wallpapers]]
+title.default = "Holiday II"
+title.zh-CN = "假日时光 II"
+license = "CC BY-NC"
+id = "Holiday_II"
+path = "Holiday_II.jpg"
+
+[[wallpapers]]
+title.default = "Red Tower"
+title.zh-CN = "红塔"
+license = "CC BY-NC"
+id = "Red_Tower"
+path = "Red_Tower.jpg"
+
+[[wallpapers]]
+title.default = "Sail & Sea"
+title.zh-CN = "帆与海"
+license = "CC BY-NC"
+id = "Sail_and_Sea"
+path = "Sail_and_Sea.jpg"

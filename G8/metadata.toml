@@ -1,0 +1,24 @@
+[[authors]]
+email = "admin@geforce102.com"
+name.default = "G8"
+
+[[wallpapers]]
+title.default = "Book Store"
+title.zh-CN = "书店"
+license = "CC BY-NC"
+id = "Book_Store"
+path = "Book_Store.jpg"
+
+[[wallpapers]]
+title.default = "River Side"
+title.zh-CN = "河畔"
+license = "CC BY-NC"
+id = "River_Side"
+path = "River_Side.jpg"
+
+[[wallpapers]]
+title.default = "Tokyo"
+title.zh-CN = "东京"
+license = "CC BY-NC"
+id = "Tokyo"
+path = "Tokyo.jpg"
