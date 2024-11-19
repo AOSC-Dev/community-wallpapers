@@ -1,0 +1,10 @@
+[[authors]]
+email = "maria.bombardil@outlook.com"
+name.default = "Maria Bombardil"
+
+[[wallpapers]]
+title.default = "Forest Trolley"
+title.zh-CN = "穿林"
+license = "CC-BY 4.0"
+id = "Forest_Trolley"
+path = "Forest_Trolley.jpg"
