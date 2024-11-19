@@ -44,3 +44,10 @@ title.zh-CN = "爽秋"
 license = "CC BY-NC 4.0"
 id = "Brisk"
 path = "Brisk.jpg"
+
+[[wallpapers]]
+title.default = "Liangzi Lakeshore"
+title.zh-CN = "湖畔"
+license = "CC BY-NC 4.0"
+id = "Liangzi_Lakeshore"
+path = "Liangzi_Lakeshore.jpg"
