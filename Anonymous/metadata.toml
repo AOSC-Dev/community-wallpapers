@@ -1,0 +1,11 @@
+[[authors]]
+email = "anonymous@aosc.io"
+name.default = "Anonymous"
+name.zh-CN = "匿名撰稿人"
+
+[[wallpapers]]
+title.default = "Dark Skies"
+title.zh-CN = "暗日"
+license = "CC0"
+id = "Dark_Skies"
+path = "Dark_Skies.jpg"
