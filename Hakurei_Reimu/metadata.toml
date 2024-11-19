@@ -5,6 +5,6 @@ name.default = "Hakurei Reimu"
 [[wallpapers]]
 title.default = "Cupboard"
 title.zh-CN = "橱柜"
-license = "CC-BY-SA"
+license = "CC BY-SA"
 id = "Cupboard"
 path = "Cupboard.jpg"

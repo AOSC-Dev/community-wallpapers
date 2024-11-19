@@ -6,6 +6,6 @@ name.zh-CN = "阿嘉"
 [[wallpapers]]
 title.default = "Theatre"
 title.zh-CN = "剧院"
-license = "CC-BY 4.0"
+license = "CC BY 4.0"
 id = "Theatre"
 path = "Theatre.jpg"

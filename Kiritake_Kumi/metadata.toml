@@ -5,6 +5,6 @@ name.default = "Kiritake Kumi"
 [[wallpapers]]
 title.default = "Spring Blooms"
 title.zh-CN = "春华"
-license = "CC-BY-NC-SA 4.0"
+license = "CC BY-NC-SA 4.0"
 id = "Spring_Blooms"
 path = "Spring_Blooms.jpg"
