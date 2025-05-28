@@ -8,3 +8,10 @@ title.zh-CN = "水墨"
 license = "CC BY-SA 4.0"
 id = "Shuimo"
 path = "Shuimo.jpg"
+
+[[wallpapers]]
+title.default = "Ailurus"
+title.zh-CN = "小熊猫"
+license = "CC BY-SA 4.0"
+id = "Ailurus"
+path = "Ailurus.jpg"
