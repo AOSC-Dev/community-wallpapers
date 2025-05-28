@@ -15,3 +15,10 @@ title.zh-CN = "北方嘲鸫"
 license = "CC BY-NC 4.0"
 id = "Northern_Mocking_Bird"
 path = "Northern_Mocking_Bird.jpg"
+
+[[wallpapers]]
+title.default = "Pounding Waves"
+title.zh-CN = "浪涛拍岸"
+license = "CC BY-NC 4.0"
+id = "Pounding_Waves"
+path = "Pounding_Waves.jpg"

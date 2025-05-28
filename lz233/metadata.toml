@@ -1,6 +1,6 @@
 [[authors]]
-email = "ohayou@lz233.ac.cn"
-name.default = "lz233"
+email = "connect@with.fish"
+name.default = "lz 差不多是条咸鱼了"
 
 [[wallpapers]]
 title.default = "Pathway of Reflections"
@@ -8,3 +8,10 @@ title.zh-CN = "倒影之路"
 license = "Unsplash License"
 id = "Pathway_of_Reflections"
 path = "Pathway_of_Reflections.jpg"
+
+[[wallpapers]]
+title.default = "Hazy Summer"
+title.zh-CN = "夏日午后"
+license = "Unsplash License"
+id = "Hazy_Summer"
+path = "Hazy_Summer.jpg"

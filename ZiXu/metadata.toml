@@ -1,0 +1,10 @@
+[[authors]]
+email = "startmenus@foxmail.com"
+name.default = "ZiXu"
+
+[[wallpapers]]
+title.default = "Autumn Leaves"
+title.zh-CN = "秋叶"
+license = "CC BY-NC-SA 4.0"
+id = "Autumn_Leaves"
+path = "Autumn_Leaves.jpg"

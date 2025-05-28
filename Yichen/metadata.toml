@@ -1,0 +1,17 @@
+[[authors]]
+email = "yichen@yichenhu.com"
+name.default = "Yichen"
+
+[[wallpapers]]
+title.default = "Ochiishi Port"
+title.zh-CN = "落石渔港"
+license = "CC0"
+id = "Ochiishi_Port"
+path = "Ochiishi_Port.jpg"
+
+[[wallpapers]]
+title.default = "Southern Alps"
+title.zh-CN = "南阿尔卑斯"
+license = "CC BY-SA 4.0"
+id = "Southern_Alps"
+path = "Southern_Alps.jpg"

@@ -1,0 +1,10 @@
+[[authors]]
+email = "crankywellcome@gmail.com"
+name.default = "Cranky Wellcome"
+
+[[wallpapers]]
+title.default = "Shuimo"
+title.zh-CN = "水墨"
+license = "CC BY-SA 4.0"
+id = "Shuimo"
+path = "Shuimo.jpg"
