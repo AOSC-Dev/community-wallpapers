@@ -39,11 +39,11 @@ id = "Reflections"
 path = "Reflections.jpg"
 
 [[wallpapers]]
-title.default = "Sunset"
+title.default = "Dusk"
 title.zh-CN = "日暮"
 license = "CC BY-NC-SA 4.0"
-id = "Sunset"
-path = "Sunset.jpg"
+id = "Dusk"
+path = "Dusk.jpg"
 
 [[wallpapers]]
 title.default = "Withered"
