@@ -3,8 +3,8 @@ email = "wsyxbcl@gmail.com"
 name.default = "wsyxbcl"
 
 [[wallpapers]]
-title.default = "Spring"
+title.default = "Early Spring"
 title.zh-CN = "初春"
 license = "CC BY-NC"
-id = "Spring"
-path = "Spring.jpg"
+id = "Early_Spring"
+path = "Early_Spring.jpg"
