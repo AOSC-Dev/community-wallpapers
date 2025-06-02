@@ -42,8 +42,8 @@ path = "Reflections.jpg"
 title.default = "Dusk"
 title.zh-CN = "日暮"
 license = "CC BY-NC-SA 4.0"
-id = "Dusk"
-path = "Dusk.jpg"
+id = "Dusk_1"
+path = "Dusk_1.jpg"
 
 [[wallpapers]]
 title.default = "Withered"
