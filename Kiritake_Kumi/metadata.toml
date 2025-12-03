@@ -8,3 +8,10 @@ title.zh-CN = "春华"
 license = "CC BY-NC-SA 4.0"
 id = "Spring_Blooms"
 path = "Spring_Blooms.jpg"
+
+[[wallpapers]]
+title.default = "Rounded Bends"
+title.zh-CN = "圆角"
+license = "CC BY-NC-SA 4.0"
+id = "Rounded_Bends"
+path = "Rounded_Bends.jpg"

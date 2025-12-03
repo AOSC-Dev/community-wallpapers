@@ -1,0 +1,17 @@
+[[authors]]
+email = "mikurakyouka@aosc.io"
+name.default = "Mikura Kyouka"
+
+[[wallpapers]]
+title.default = "Greenery"
+title.zh-CN = "芳草"
+license = "CC BY-NC-SA 4.0"
+id = "Greenery"
+path = "Greenery.jpg"
+
+[[wallpapers]]
+title.default = "Relics"
+title.zh-CN = "书墨"
+license = "CC BY-NC-SA 4.0"
+id = "Relics"
+path = "Relics.jpg"

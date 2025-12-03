@@ -1,0 +1,10 @@
+[[authors]]
+email = "dabao1955@163.com"
+name.default = "dabao1955"
+
+[[wallpapers]]
+title.default = "Electrification"
+title.zh-CN = "电网"
+license = "CC BY-NC-SA 4.0"
+id = "Electrification"
+path = "Electrification.jpg"

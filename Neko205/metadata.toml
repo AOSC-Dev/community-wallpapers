@@ -1,0 +1,10 @@
+[[authors]]
+email = "neko200553@gmail.com"
+name.default = "Neko205"
+
+[[wallpapers]]
+title.default = "Forest Shades"
+title.zh-CN = "阴凉"
+license = "CC BY-NC-SA 4.0"
+id = "Forest_Shades"
+path = "Forest_Shades.jpg"

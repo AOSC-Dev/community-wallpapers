@@ -1,0 +1,10 @@
+[[authors]]
+email = "wxiwnd@aosc.io"
+name.default = "wxiwnd@aosc.io"
+
+[[wallpapers]]
+title.default = "Reverence"
+title.zh-CN = "仰望"
+license = "CC BY-NC-SA 4.0"
+id = "Reverence"
+path = "Reverence.jpg"

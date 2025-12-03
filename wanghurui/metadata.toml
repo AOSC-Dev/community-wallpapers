@@ -1,5 +1,5 @@
 [[authors]]
-email = "admin@whrblog.com"
+email = "me@hurui.wang"
 name.default = "wanghurui"
 name.zh-CN = "椰椰雪球"
 
@@ -23,3 +23,10 @@ title.zh-CN = "采芳"
 license = "CC BY-NC-ND 4.0"
 id = "Grazing"
 path = "Grazing.jpg"
+
+[[wallpapers]]
+title.default = "Oasis"
+title.zh-CN = "绿洲"
+license = "CC BY-NC-SA 4.0"
+id = "Oasis"
+path = "Oasis.jpg"

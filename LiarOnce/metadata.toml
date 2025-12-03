@@ -1,0 +1,10 @@
+[[authors]]
+email = "liaronce@hotmail.com"
+name.default = "LiarOnce"
+
+[[wallpapers]]
+title.default = "Stroll"
+title.zh-CN = "信步"
+license = "CC BY-NC-SA 4.0"
+id = "Stroll"
+path = "Stroll.jpg"

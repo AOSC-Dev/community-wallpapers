@@ -51,3 +51,18 @@ title.zh-CN = "湖畔"
 license = "CC BY-NC 4.0"
 id = "Liangzi_Lakeshore"
 path = "Liangzi_Lakeshore.jpg"
+
+[[wallpapers]]
+title.default = "Afterglow"
+title.zh-CN = "霞光"
+license = "CC BY-NC 4.0"
+id = "Afterglow"
+path = "Afterglow.jpg"
+
+
+[[wallpapers]]
+title.default = "Northbound"
+title.zh-CN = "向北"
+license = "CC BY-NC 4.0"
+id = "Northbound"
+path = "Northbound.jpg"

@@ -9,3 +9,10 @@ title.zh-CN = "剧院"
 license = "CC BY 4.0"
 id = "Theatre"
 path = "Theatre.jpg"
+
+[[wallpapers]]
+title.default = "Back of Bazaar"
+title.zh-CN = "动静"
+license = "CC BY 4.0"
+id = "Back_of_Bazaar"
+path = "Back_of_Bazaar.jpg"
