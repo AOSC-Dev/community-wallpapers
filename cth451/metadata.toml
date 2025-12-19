@@ -5,20 +5,20 @@ name.default = "cth451"
 [[wallpapers]]
 title.default = "Luray in Twilight"
 title.zh-CN = "卢雷日暮"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Luray_in_Twilight"
 path = "Luray_in_Twilight.jpg"
 
 [[wallpapers]]
 title.default = "Northern Mocking Bird"
 title.zh-CN = "北方嘲鸫"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Northern_Mocking_Bird"
 path = "Northern_Mocking_Bird.jpg"
 
 [[wallpapers]]
 title.default = "Pounding Waves"
 title.zh-CN = "浪涛拍岸"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Pounding_Waves"
 path = "Pounding_Waves.jpg"

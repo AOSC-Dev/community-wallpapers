@@ -5,6 +5,6 @@ name.default = "Purofle"
 [[wallpapers]]
 title.default = "Homeland"
 title.zh-CN = "家园"
-license = "CC BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 id = "Homeland"
 path = "Homeland.jpg"

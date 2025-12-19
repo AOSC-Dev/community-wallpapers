@@ -5,55 +5,55 @@ name.default = "Mogician Yang"
 [[wallpapers]]
 title.default = "Lone Wild"
 title.zh-CN = "孤勇"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Lone_Wild"
 path = "Lone_Wild.jpg"
 
 [[wallpapers]]
 title.default = "Artist's Bluff Lookout"
 title.zh-CN = "五色山谷"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Artists_Bluff_Lookout"
 path = "Artists_Bluff_Lookout.jpg"
 
 [[wallpapers]]
 title.default = "Embrace Me"
 title.zh-CN = "狂澜相拥"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Embrace_Me"
 path = "Embrace_Me.jpg"
 
 [[wallpapers]]
 title.default = "Somewhere, Sometime"
 title.zh-CN = "似有光阴"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Somewhere_Sometime"
 path = "Somewhere_Sometime.jpg"
 
 [[wallpapers]]
 title.default = "Stair ⇨ Exit"
 title.zh-CN = "此是通幽处"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Stair_Exit"
 path = "Stair_Exit.jpg"
 
 [[wallpapers]]
 title.default = "Fly Low"
 title.zh-CN = "向天"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "Fly_Low"
 path = "Fly_Low.jpg"
 
 [[wallpapers]]
 title.default = "Mountain Range II"
 title.zh-CN = "地之脊 II"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "Mountain_Range_II"
 path = "Mountain_Range_II.jpg"
 
 [[wallpapers]]
 title.default = "Patches II"
 title.zh-CN = "拼图 II"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "Patches_II"
 path = "Patches_II.jpg"

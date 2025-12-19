@@ -5,20 +5,20 @@ name.default = "Cranky Wellcome"
 [[wallpapers]]
 title.default = "Shuimo"
 title.zh-CN = "水墨"
-license = "CC BY-SA 4.0"
+license = "CC-BY-SA-4.0"
 id = "Shuimo"
 path = "Shuimo.jpg"
 
 [[wallpapers]]
 title.default = "Ailurus"
 title.zh-CN = "小熊猫"
-license = "CC BY-SA 4.0"
+license = "CC-BY-SA-4.0"
 id = "Ailurus"
 path = "Ailurus.jpg"
 
 [[wallpapers]]
 title.default = "Departure"
 title.zh-CN = "出航"
-license = "CC BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 id = "Departure"
 path = "Departure.jpg"

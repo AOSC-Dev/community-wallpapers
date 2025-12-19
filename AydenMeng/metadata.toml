@@ -5,6 +5,6 @@ name.default = "AydenMeng"
 [[wallpapers]]
 title.default = "Gonggar's Mirror"
 title.zh-CN = "镜像贡嘎"
-license = "CC BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 id = "Gonggars_Mirror"
 path = "Gonggars_Mirror.jpg"

@@ -5,6 +5,6 @@ name.default = "Ariel AxionL"
 [[wallpapers]]
 title.default = "Geometric Dusk"
 title.zh-CN = "斜阳几何"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "Geometric_Dusk"
 path = "Geometric_Dusk.jpg"

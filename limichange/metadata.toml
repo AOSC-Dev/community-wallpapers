@@ -5,6 +5,6 @@ name.default = "limichange"
 [[wallpapers]]
 title.default = "Urban Unset"
 title.zh-CN = "夜幕"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Urban_Sunset"
 path = "Urban_Sunset.jpg"

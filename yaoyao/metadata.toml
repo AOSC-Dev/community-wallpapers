@@ -5,6 +5,6 @@ name.default = "yaoyao"
 [[wallpapers]]
 title.default = "Haeundae"
 title.zh-CN = "潮 @ Haeundae"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 id = "Haeundae"
 path = "Haeundae.png"

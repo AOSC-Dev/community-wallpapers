@@ -5,6 +5,6 @@ name.default = "Neko205"
 [[wallpapers]]
 title.default = "Forest Shades"
 title.zh-CN = "阴凉"
-license = "CC BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 id = "Forest_Shades"
 path = "Forest_Shades.jpg"

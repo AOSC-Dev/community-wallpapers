@@ -6,20 +6,20 @@ name.zh-CN = "椰椰雪球"
 [[wallpapers]]
 title.default = "The Desert"
 title.zh-CN = "沙漠远眺"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "The_Desert"
 path = "The_Desert.jpg"
 
 [[wallpapers]]
 title.default = "Skylight"
 title.zh-CN = "乌云过后"
-license = "CC BY-NC"
+license = "CC-BY-NC-4.0"
 id = "Skylight"
 path = "Skylight.jpg"
 
 [[wallpapers]]
 title.default = "Grazing"
 title.zh-CN = "采芳"
-license = "CC BY-NC-ND 4.0"
+license = "CC-BY-NC-ND-4.0"
 id = "Grazing"
 path = "Grazing.jpg"

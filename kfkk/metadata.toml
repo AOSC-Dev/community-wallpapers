@@ -5,6 +5,6 @@ name.default = "kfkk"
 [[wallpapers]]
 title.default = "Sea"
 title.zh-CN = "海"
-license = "CC BY-SA 4.0"
+license = "CC-BY-SA-4.0"
 id = "Sea"
 path = "Sea.jpg"

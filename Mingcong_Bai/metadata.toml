@@ -6,56 +6,56 @@ name.zh-CN = "白铭骢"
 [[wallpapers]]
 title.default = "Bliss"
 title.zh-CN = "逍遥"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Bliss"
 path = "Bliss.jpg"
 
 [[wallpapers]]
 title.default = "Castles of the Sea"
 title.zh-CN = "海市"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Castles_of_the_Sea"
 path = "Castles_of_the_Sea.jpg"
 
 [[wallpapers]]
 title.default = "Highway Blues"
 title.zh-CN = "曲径"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Highway_Blues"
 path = "Highway_Blues.jpg"
 
 [[wallpapers]]
 title.default = "This Way Up"
 title.zh-CN = "登高"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "This_Way_Up"
 path = "This_Way_Up.jpg"
 
 [[wallpapers]]
 title.default = "Кончится лето"
 title.zh-CN = "夏末"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Кончится_лето"
 path = "Кончится_лето.jpg"
 
 [[wallpapers]]
 title.default = "Brisk"
 title.zh-CN = "爽秋"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Brisk"
 path = "Brisk.jpg"
 
 [[wallpapers]]
 title.default = "Liangzi Lakeshore"
 title.zh-CN = "湖畔"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Liangzi_Lakeshore"
 path = "Liangzi_Lakeshore.jpg"
 
 [[wallpapers]]
 title.default = "Afterglow"
 title.zh-CN = "霞光"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Afterglow_2025"
 path = "Afterglow_2025.jpg"
 
@@ -63,6 +63,6 @@ path = "Afterglow_2025.jpg"
 [[wallpapers]]
 title.default = "Northbound"
 title.zh-CN = "向北"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 id = "Northbound"
 path = "Northbound.jpg"

@@ -5,6 +5,6 @@ name.default = "abc1763613206"
 [[wallpapers]]
 title.default = "Marker"
 title.zh-CN = "航标"
-license = "CC BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 id = "Marker"
 path = "Marker.jpg"
