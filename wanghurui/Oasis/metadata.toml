@@ -1,0 +1,12 @@
+[[wallpapers]]
+title.default = "Oasis"
+title.zh-CN = "绿洲"
+license = "CC BY-NC-SA 4.0"
+id = "Oasis"
+path = [
+    "4035x3038.jpg",
+    "6000x3375.jpg",
+    "6000x4000.jpg",
+    "6000x4500.jpg",
+    "6400x4000.jpg",
+]
