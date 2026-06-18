@@ -22,3 +22,17 @@ title.zh-CN = "出航"
 license = "CC-BY-NC-SA-4.0"
 id = "Departure"
 path = "Departure.jpg"
+
+[[wallpapers]]
+title.default = "花影"
+title.zh-CN = "Floral Rouge"
+license = "CC-BY-SA-4.0"
+id = "Floral_Rouge"
+path = "Floral_Rouge.jpg"
+
+[[wallpapers]]
+title.default = "Radio Telescope"
+title.zh-CN = "射电望远镜"
+license = "CC-BY-SA-4.0"
+id = "Radio_Telescope"
+path = "Radio_Telescope.jpg"

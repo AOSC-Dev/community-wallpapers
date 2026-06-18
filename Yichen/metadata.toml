@@ -15,3 +15,24 @@ title.zh-CN = "南阿尔卑斯"
 license = "CC-BY-SA-4.0"
 id = "Southern_Alps"
 path = "Southern_Alps.jpg"
+
+[[wallpapers]]
+title.default = "From Point Elizabeth"
+title.zh-CN = "伊丽莎白港远眺"
+license = "Unsplash"
+id = "From_Point_Elizabeth"
+path = "From_Point_Elizabeth.jpg"
+
+[[wallpapers]]
+title.default = "Arthur’s Pass"
+title.zh-CN = "亚瑟隘口"
+license = "CC-BY-NC-ND-4.0"
+id = "Arthurs_Pass"
+path = "Arthurs_Pass.jpg"
+
+[[wallpapers]]
+title.default = "Butler Range - From Whataroa"
+title.zh-CN = "怀塔罗瓦山景"
+license = "CC-BY-NC-ND-4.0"
+id = "Butler_Range_From_Whataroa"
+path = "Butler_Range_From_Whataroa.jpg"

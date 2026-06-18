@@ -22,3 +22,17 @@ title.zh-CN = "浪涛拍岸"
 license = "CC-BY-NC-4.0"
 id = "Pounding_Waves"
 path = "Pounding_Waves.jpg"
+
+[[wallpapers]]
+title.default = "Sunset at Glacier Point"
+title.zh-CN = "冰山日暮"
+license = "CC-BY-4.0"
+id = "Sunset_at_Glacier_Point"
+path = "Sunset_at_Glacier_Point.jpg"
+
+[[wallpapers]]
+title.default = "Dome"
+title.zh-CN = "天穹"
+license = "CC-BY-4.0"
+id = "Dome"
+path = "Dome.jpg"

@@ -1,0 +1,10 @@
+[[authors]]
+email = "wyc0329@qq.com"
+name.default = "BG9JNI"
+
+[[wallpapers]]
+title.default = "Leaves"
+title.zh-CN = "叶"
+license = "CC-BY-NC-4.0"
+id = "Leaves"
+path = "Leaves.jpg"

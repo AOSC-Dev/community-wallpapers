@@ -1,0 +1,10 @@
+[[authors]]
+email = "exp999@live.cn"
+name.default = "samduanx"
+
+[[wallpapers]]
+title.default = "Autumn in Xingan"
+title.zh-CN = "兴安秋韵"
+license = "CC-BY-4.0"
+id = "Autumn_in_Xingan"
+path = "Autumn_in_Xingan.jpg"

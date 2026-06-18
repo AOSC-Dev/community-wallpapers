@@ -9,3 +9,10 @@ title.zh-CN = "荫下"
 license = "CC-BY-NC-4.0"
 id = "Under_the_Canopy"
 path = "Under_the_Canopy.jpg"
+
+[[wallpapers]]
+title.default = "Quaint Kenswat"
+title.zh-CN = "肯斯瓦特的宁静"
+license = "CC-BY-NC-ND-4.0"
+id = "Quaint_Kenswat"
+path = "Quaint_Kenswat.jpg"

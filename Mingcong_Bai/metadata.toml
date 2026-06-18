@@ -66,3 +66,11 @@ title.zh-CN = "向北"
 license = "CC-BY-NC-4.0"
 id = "Northbound"
 path = "Northbound.jpg"
+
+
+[[wallpapers]]
+title.default = "Soundness"
+title.zh-CN = "安稳"
+license = "CC-BY-NC-4.0"
+id = "Soundness"
+path = "Soundness.jpg"

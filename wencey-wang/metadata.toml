@@ -1,0 +1,10 @@
+[[authors]]
+email = "wencey@apernet.io"
+name.default = "Wencey Wang"
+
+[[wallpapers]]
+title.default = "Red Panda"
+title.zh-CN = "小熊猫"
+license = "CC-BY-SA-4.0"
+id = "Red_Panda"
+path = "Red_Panda.jpg"
