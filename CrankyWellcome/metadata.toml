@@ -24,8 +24,8 @@ id = "Departure"
 path = "Departure.jpg"
 
 [[wallpapers]]
-title.default = "花影"
-title.zh-CN = "Floral Rouge"
+title.default = "Floral Rouge"
+title.zh-CN = "花影"
 license = "CC-BY-SA-4.0"
 id = "Floral_Rouge"
 path = "Floral_Rouge.jpg"
